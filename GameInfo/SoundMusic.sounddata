@@ -1,0 +1,1083 @@
+TXT
+numMusic 135
+music
+	name "MUSIC_FRONTEND"
+	fileName "M_Menu.ogg"
+	isLooping FALSE
+	actionLevel 0.5
+	actionRange 0.5
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_1"
+	fileName "M_Battle1.ogg"
+	isLooping FALSE
+	actionLevel 0.75
+	actionRange 0.35
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "M_NR_Battle1"
+	fileName "M_NR_Battle1.ogg"
+	isLooping FALSE
+	actionLevel 0.8
+	actionRange 0.35
+	emotionLevel 1.0
+	emotionRange 1.0
+music
+	name "M_PSA_Battle1"
+	fileName "M_PSA_Battle1.ogg"
+	isLooping FALSE
+	actionLevel 0.75
+	actionRange 0.35
+	emotionLevel 0.1
+	emotionRange 1.0
+music
+	name "M_PSA_Battle2"
+	fileName "M_PSA_Battle2.ogg"
+	isLooping FALSE
+	actionLevel 0.75
+	actionRange 0.35
+	emotionLevel 0.1
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_2"
+	fileName "M_Battle2.ogg"
+	isLooping FALSE
+	actionLevel 0.75
+	actionRange 0.35
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_3"
+	fileName "M_Battle3.ogg"
+	isLooping FALSE
+	actionLevel 0.75
+	actionRange 0.35
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_4"
+	fileName "M_Battle4.ogg"
+	isLooping FALSE
+	actionLevel 0.75
+	actionRange 0.35
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_5"
+	fileName "M_Battle5.ogg"
+	isLooping FALSE
+	actionLevel 0.75
+	actionRange 0.35
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_6"
+	fileName "M_Battle6.ogg"
+	isLooping FALSE
+	actionLevel 0.75
+	actionRange 0.35
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_7"
+	fileName "M_Battle7.ogg"
+	isLooping FALSE
+	actionLevel 0.75
+	actionRange 0.35
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_8"
+	fileName "M_Battle8.ogg"
+	isLooping FALSE
+	actionLevel 0.75
+	actionRange 0.35
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_9"
+	fileName "M_Battle9.ogg"
+	isLooping FALSE
+	actionLevel 0.75
+	actionRange 0.35
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_10"
+	fileName "M_Battle10.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_11"
+	fileName "M_Battle11.ogg"
+	isLooping FALSE
+	actionLevel 0.75
+	actionRange 0.35
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_12"
+	fileName "M_Battle12.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.0
+	emotionRange 1.0	
+music
+	name "MUSIC_BATTLE_13"
+	fileName "M_Battle13.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.0
+	emotionRange 1.0	
+music
+	name "MUSIC_BATTLE_14"
+	fileName "M_Battle14.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_15"
+	fileName "M_Battle15.ogg"
+	isLooping FALSE
+	actionLevel 0.75
+	actionRange 0.35
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_16"
+	fileName "M_Battle16.ogg"
+	isLooping FALSE
+	actionLevel 0.5
+	actionRange 0.35
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_17"
+	fileName "M_Battle17.ogg"
+	isLooping FALSE
+	actionLevel 0.75
+	actionRange 0.35
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_18"
+	fileName "M_Battle18.ogg"
+	isLooping FALSE
+	actionLevel 0.75
+	actionRange 0.35
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_19"
+	fileName "M_Battle19.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.35
+	emotionLevel 0.5
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_20"
+	fileName "M_Battle20.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_21"
+	fileName "M_Battle21.ogg"
+	isLooping FALSE
+	actionLevel 0.75
+	actionRange 0.35
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_BATTLE_22"
+	fileName "M_Battle22.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.0
+	emotionRange 1.0	
+music
+	name "MUSIC_BATTLE_23"
+	fileName "M_Battle23.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.0
+	emotionRange 1.0	
+music
+	name "MUSIC_BATTLE_24"
+	fileName "M_Battle24.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_NEWBATTLE_1"
+	fileName "Defending the Colony.ogg"
+	isLooping FALSE
+	actionLevel 0.75
+	actionRange 0.35
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_NEWBATTLE_2"
+	fileName "Invasion Fleet.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.0
+	emotionRange 1.0	
+music
+	name "MUSIC_NEWBATTLE_3"
+	fileName "Marauders.ogg"
+	isLooping FALSE
+	actionLevel 0.7
+	actionRange 0.3
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_QUIET_1"
+	fileName "M_Ambient1.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel 0.4
+	emotionRange 0.6
+music
+	name "M_NR_Ambient1"
+	fileName "M_NR_Ambient1.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 0.15
+	emotionLevel 0.15
+	emotionRange 0.4
+music
+	name "M_NR_Ambient2"
+	fileName "M_NR_Ambient2.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 0.15
+	emotionLevel -0.2
+	emotionRange 0.4
+music
+	name "M_NR_Ambient3"
+	fileName "M_NR_Ambient3.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 0.15
+	emotionLevel 0.15
+	emotionRange 0.4
+music
+	name "M_NR_Ambient4"
+	fileName "M_NR_Ambient4.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 0.15
+	emotionLevel 0.15
+	emotionRange 0.4
+music
+	name "M_IR_Ambient1"
+	fileName "M_IR_Ambient1.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 0.15
+	emotionLevel 0.15
+	emotionRange 0.4
+music
+	name "M_IR_Ambient2"
+	fileName "M_IR_Ambient2.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 0.15
+	emotionLevel 0.4
+	emotionRange 0.4
+music
+	name "M_IR_Ambient3"
+	fileName "M_IR_Ambient3.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 0.15
+	emotionLevel 0.2
+	emotionRange 0.4
+music
+	name "M_IR_Ambient4"
+	fileName "M_IR_Ambient4.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 0.15
+	emotionLevel 0.6
+	emotionRange 0.4
+music
+	name "M_IR_Ambient5"
+	fileName "M_IR_Ambient5.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 0.15
+	emotionLevel 0.6
+	emotionRange 0.4
+music
+	name "M_IR_Ambient6"
+	fileName "M_IR_Ambient6.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 0.15
+	emotionLevel 0.6
+	emotionRange 0.4
+music
+	name "M_IR_Ambient7"
+	fileName "M_IR_Ambient7.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 0.15
+	emotionLevel 0.6
+	emotionRange 0.4
+music
+	name "M_PSA_Ambient1"
+	fileName "M_PSA_Ambient1.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 0.15
+	emotionLevel 0.15
+	emotionRange 0.4
+music
+	name "M_PSA_Ambient2"
+	fileName "M_PSA_Ambient2.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 0.15
+	emotionLevel 0.15
+	emotionRange 0.4
+music
+	name "M_PSA_Ambient3"
+	fileName "M_PSA_Ambient3.ogg"
+	isLooping FALSE
+	actionLevel 0.1
+	actionRange 0.15
+	emotionLevel 0.15
+	emotionRange 0.4
+music
+	name "M_PSA_Ambient4"
+	fileName "M_PSA_Ambient4.ogg"
+	isLooping FALSE
+	actionLevel 0.1
+	actionRange 0.15
+	emotionLevel 0.4
+	emotionRange 0.6
+music
+	name "M_PSA_Ambient5"
+	fileName "M_PSA_Ambient5.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 0.15
+	emotionLevel 0.15
+	emotionRange 0.4
+music
+	name "M_PSA_Ambient6"
+	fileName "M_PSA_Ambient6.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 0.15
+	emotionLevel 0.15
+	emotionRange 0.4
+music
+	name "MUSIC_QUIET_2"
+	fileName "M_Ambient2.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel 0.4
+	emotionRange 0.6
+music
+	name "MUSIC_QUIET_4"
+	fileName "M_Ambient4.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel 0.4
+	emotionRange 0.6
+music
+	name "MUSIC_QUIET_5"
+	fileName "M_Ambient5.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel 0.4
+	emotionRange 0.6
+music
+	name "MUSIC_QUIET_6"
+	fileName "M_Ambient6.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel 0.4
+	emotionRange 0.6
+music
+	name "MUSIC_QUIET_7"
+	fileName "M_Ambient7.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel 0.4
+	emotionRange 0.6
+music
+	name "MUSIC_QUIET_8"
+	fileName "M_Ambient8.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel 0.4
+	emotionRange 0.5
+music
+	name "MUSIC_QUIET_9"
+	fileName "M_Ambient9.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel -0.3
+	emotionRange 0.7	
+music
+	name "MUSIC_QUIET_10"
+	fileName "M_Ambient10.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel -0.3
+	emotionRange 0.7	
+music
+	name "MUSIC_QUIET_11"
+	fileName "M_Ambient11.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel -0.3
+	emotionRange 0.7	
+music
+	name "MUSIC_QUIET_12"
+	fileName "M_Ambient12.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel -0.2
+	emotionRange 0.8	
+music
+	name "MUSIC_QUIET_13"
+	fileName "M_Ambient13.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel -0.3
+	emotionRange 0.7	
+music
+	name "MUSIC_QUIET_14"
+	fileName "M_Ambient14.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel -0.3
+	emotionRange 0.7	
+music
+	name "MUSIC_QUIET_15"
+	fileName "M_Ambient15.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel -0.3
+	emotionRange 0.7	
+music
+	name "MUSIC_QUIET_16"
+	fileName "M_Ambient16.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel -0.2
+	emotionRange 0.8	
+music
+	name "MUSIC_QUIET_17"
+	fileName "M_Ambient17.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel -0.3
+	emotionRange 0.7	
+music
+	name "MUSIC_QUIET_18"
+	fileName "M_Ambient18.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel -0.2
+	emotionRange 0.8	
+music
+	name "M_SAD_1"
+	fileName "M_Sad1.ogg"
+	isLooping FALSE
+	actionLevel 0.1
+	actionRange 0.1
+	emotionLevel -0.5
+	emotionRange 0.5
+music
+	name "M_SAD_2"
+	fileName "M_Sad2.ogg"
+	isLooping FALSE
+	actionLevel 0.1
+	actionRange 0.1
+	emotionLevel -0.5
+	emotionRange 0.5
+music
+	name "MUSIC_SAD_3"
+	fileName "M_Sad3.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 0.2
+	emotionLevel -0.5
+	emotionRange 0.5
+music
+	name "MUSIC_TROUBLE_1"
+	fileName "Trouble 1.ogg"
+	isLooping FALSE
+	actionLevel 0.1
+	actionRange 0.1
+	emotionLevel -0.3
+	emotionRange 0.5
+music
+	name "M_PSA_Tension1"
+	fileName "M_PSA_Tension1.ogg"
+	isLooping FALSE
+	actionLevel 0.1
+	actionRange 0.1
+	emotionLevel 0.15
+	emotionRange 0.4
+music
+	name "MUSIC_TROUBLE_2"
+	fileName "Trouble 2.ogg"
+	isLooping FALSE
+	actionLevel 0.2
+	actionRange 0.3
+	emotionLevel -0.5
+	emotionRange 0.7
+music
+	name "MUSIC_TROUBLE_3"
+	fileName "Trouble 3.ogg"
+	isLooping FALSE
+	actionLevel 0.2
+	actionRange 0.2
+	emotionLevel -0.5
+	emotionRange 0.7
+music
+	name "MUSIC_TROUBLE_4"
+	fileName "Trouble 4.ogg"
+	isLooping FALSE
+	actionLevel 0.2
+	actionRange 0.2
+	emotionLevel -0.5
+	emotionRange 0.7
+music
+	name "MUSIC_TROUBLE_5"
+	fileName "Trouble 5.ogg"
+	isLooping FALSE
+	actionLevel 0.2
+	actionRange 0.3
+	emotionLevel -0.5
+	emotionRange 0.7
+music
+	name "MUSIC_TROUBLE_6"
+	fileName "Trouble 6.ogg"
+	isLooping FALSE
+	actionLevel 0.2
+	actionRange 0.2
+	emotionLevel -0.5
+	emotionRange 0.7
+music
+	name "MUSIC_TROUBLE_7"
+	fileName "Trouble 7.ogg"
+	isLooping FALSE
+	actionLevel 0.2
+	actionRange 0.2
+	emotionLevel -0.5
+	emotionRange 0.7
+music
+	name "MUSIC_TROUBLE_8"
+	fileName "Trouble 8.ogg"
+	isLooping FALSE
+	actionLevel 0.2
+	actionRange 0.2
+	emotionLevel -0.5
+	emotionRange 0.7
+music
+	name "MUSIC_TROUBLE_9"
+	fileName "Trouble 9.ogg"
+	isLooping FALSE
+	actionLevel 0.2
+	actionRange 0.2
+	emotionLevel -0.5
+	emotionRange 0.7
+music
+	name "MUSIC_TEC_THEME_1"
+	fileName "TEC Theme.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.5
+	emotionLevel 0.3
+	emotionRange 0.7
+music
+	name "MUSIC_TEC_ANNOUNCEMENT"
+	fileName "TEC Announcement.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 1.0
+	emotionLevel -0.3
+	emotionRange 0.7
+music
+	name "MUSIC_TEC_OPENING"
+	fileName "TEC Opening.ogg"
+	isLooping FALSE
+	actionLevel 0.5
+	actionRange 0.5
+	emotionLevel 0.3
+	emotionRange 0.5
+music
+	name "MUSIC_TEC_MISC_1"
+	fileName "TEC 1.ogg"
+	isLooping FALSE
+	actionLevel 0.4
+	actionRange 0.4
+	emotionLevel 0.3
+	emotionRange 0.7
+music
+	name "MUSIC_TEC_MISC_2"
+	fileName "TEC 2.ogg"
+	isLooping FALSE
+	actionLevel 0.25
+	actionRange 0.25
+	emotionLevel -0.2
+	emotionRange 0.8
+music
+	name "MUSIC_TEC_MISC_3"
+	fileName "TEC 3.ogg"
+	isLooping FALSE
+	actionLevel 0.4
+	actionRange 0.4
+	emotionLevel 0.2
+	emotionRange 0.8
+music
+	name "MUSIC_TEC_MISC_4"
+	fileName "TEC 4.ogg"
+	isLooping FALSE
+	actionLevel 0.25
+	actionRange 0.2
+	emotionLevel 0.3
+	emotionRange 0.6
+music
+	name "MUSIC_TEC_LOYALIST_1"
+	fileName "TEC Loyalists - Peace Behind the Walls.ogg"
+	isLooping FALSE
+	actionLevel 0.4
+	actionRange 0.4
+	emotionLevel 0.2
+	emotionRange 0.8
+music
+	name "MUSIC_TEC_LOYALIST_2"
+	fileName "TEC Loyalists - Strength In Separation.ogg"
+	isLooping FALSE
+	actionLevel 0.4
+	actionRange 0.4
+	emotionLevel 0.3
+	emotionRange 0.7
+music
+	name "MUSIC_TEC_LOYALIST_3"
+	fileName "TEC Loyalists - Watching the Borders.ogg"
+	isLooping FALSE
+	actionLevel 0.25
+	actionRange 0.25
+	emotionLevel -0.2
+	emotionRange 0.8
+music
+	name "MUSIC_TEC_REBEL_1"
+	fileName "TEC Rebels - Keep the Lanes Open.ogg"
+	isLooping FALSE
+	actionLevel 0.4
+	actionRange 0.4
+	emotionLevel 0.3
+	emotionRange 0.7
+music
+	name "MUSIC_TEC_REBEL_2"
+	fileName "TEC Rebels - To the Victor.ogg"
+	isLooping FALSE
+	actionLevel 0.4
+	actionRange 0.4
+	emotionLevel 0.2
+	emotionRange 0.8
+music
+	name "MUSIC_TEC_REBEL_3"
+	fileName "TEC Rebels - Trade Wars.ogg"
+	isLooping FALSE
+	actionLevel 0.2
+	actionRange 0.2
+	emotionLevel -0.5
+	emotionRange 0.7
+music
+	name "MUSIC_TEC_QUIET_1"
+	fileName "TEC Quiet.ogg"
+	isLooping FALSE
+	actionLevel 0.17
+	actionRange 0.17
+	emotionLevel -0.3
+	emotionRange 0.7
+music
+	name "MUSIC_ADVENT_THEME_1"
+	fileName "Advent Theme.ogg"
+	isLooping FALSE
+	actionLevel 0.4
+	actionRange 0.4
+	emotionLevel 0.2
+	emotionRange 0.8
+music
+	name "MUSIC_ADVENT_LOYALIST_1"
+	fileName "Advent Loyalists - Fate of the Apostate.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_ADVENT_LOYALIST_2"
+	fileName "Advent Loyalists - In the Name of The Unity.ogg"
+	isLooping FALSE
+	actionLevel 0.1
+	actionRange 0.1
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_ADVENT_LOYALIST_3"
+	fileName "Advent Loyalists - Inevitable Retribution.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_ADVENT_REBEL_1"
+	fileName "Advent Rebels - A New Call.ogg"
+	isLooping FALSE
+	actionLevel 0.4
+	actionRange 0.4
+	emotionLevel 0.2
+	emotionRange 0.8
+music
+	name "MUSIC_ADVENT_REBEL_2"
+	fileName "Advent Rebels - Purity of Memory.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_ADVENT_REBEL_3"
+	fileName "Advent Rebels - Revelation and Regret.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_ADVENT_ANNOUNCEMENT"
+	fileName "Advent Announcement.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 1.0
+	emotionLevel -0.3
+	emotionRange 0.7	
+music
+	name "M_IR_Announcement"
+	fileName "M_IR_Announcement.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 1.0
+	emotionLevel -0.3
+	emotionRange 0.7
+music
+	name "M_PSA_Announcement"
+	fileName "M_PSA_Announcement.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 1.0
+	emotionLevel -0.3
+	emotionRange 0.7
+music
+	name "M_NR_Announcement"
+	fileName "M_NR_Announcement.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 1.0
+	emotionLevel -0.3
+	emotionRange 0.7	
+music
+	name "MUSIC_ADVENT_BATTLE_1"
+	fileName "Advent Battle.ogg"
+	isLooping FALSE
+	actionLevel 0.7
+	actionRange 0.3
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_ADVENT_BATTLE_2"
+	fileName "Advent Battle 2.ogg"
+	isLooping FALSE
+	actionLevel 0.7
+	actionRange 0.3
+	emotionLevel 0.0
+	emotionRange 1.0	
+music
+	name "MUSIC_ADVENT_QUIET_1"
+	fileName "Advent Quiet.ogg"
+	isLooping FALSE
+	actionLevel 0.12
+	actionRange 0.12
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_ADVENT_QUIET_2"
+	fileName "Advent Quiet 2.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_ADVENT_MISC_1"
+	fileName "Advent 1.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_ADVENT_MISC_2"
+	fileName "Advent 2.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.0
+	emotionRange 0.8
+music
+	name "MUSIC_ADVENT_MISC_3"
+	fileName "Advent 3.ogg"
+	isLooping FALSE
+	actionLevel 0.1
+	actionRange 0.1
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_ADVENT_MISC_4"
+	fileName "Advent 4.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_ADVENT_MISC_5"
+	fileName "Advent 5.ogg"
+	isLooping FALSE
+	actionLevel 0.2
+	actionRange 0.2
+	emotionLevel 0.0
+	emotionRange 1.0	
+music
+	name "MUSIC_ADVENT_MISC_6"
+	fileName "Advent 6.ogg"
+	isLooping FALSE
+	actionLevel 0.2
+	actionRange 0.2
+	emotionLevel -0.5
+	emotionRange 0.7
+music
+	name "MUSIC_ADVENT_SAD_1"
+	fileName "Advent Sad.ogg"
+	isLooping FALSE
+	actionLevel 0.1
+	actionRange 0.1
+	emotionLevel -0.6
+	emotionRange 0.4
+music
+	name "MUSIC_VASARI_THEME_1"
+	fileName "Vasari Theme.ogg"
+	isLooping FALSE
+	actionLevel 0.25
+	actionRange 0.3
+	emotionLevel 0.3
+	emotionRange 0.7
+music
+	name "MUSIC_VASARI_ANNOUNCEMENT"
+	fileName "Vasari Announcement.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 1.0
+	emotionLevel -0.3
+	emotionRange 0.7	
+music
+	name "MUSIC_VASARI_MISC_1"
+	fileName "Vasari 1.ogg"
+	isLooping FALSE
+	actionLevel 0.5
+	actionRange 0.5
+	emotionLevel 0.2
+	emotionRange 0.8
+music
+	name "MUSIC_VASARI_MISC_2"
+	fileName "Vasari 2.ogg"
+	isLooping FALSE
+	actionLevel 0.2
+	actionRange 0.25
+	emotionLevel -0.2
+	emotionRange 0.8
+music
+	name "MUSIC_VASARI_MISC_3"
+	fileName "Vasari 3.ogg"
+	isLooping FALSE
+	actionLevel 0.3
+	actionRange 0.3
+	emotionLevel -0.1
+	emotionRange 1.1
+music
+	name "MUSIC_VASARI_MISC_4"
+	fileName "Vasari 4.ogg"
+	isLooping FALSE
+	actionLevel 0.1
+	actionRange 0.1
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_VASARI_MISC_5"
+	fileName "Vasari 5.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.2
+	emotionRange 0.8
+music
+	name "MUSIC_VASARI_MISC_6"
+	fileName "Vasari 6.ogg"
+	isLooping FALSE
+	actionLevel 0.66
+	actionRange 0.34
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_VASARI_LOYALIST_1"
+	fileName "Vasari Loyalists - Into the Void.ogg"
+	isLooping FALSE
+	actionLevel 0.5
+	actionRange 0.5
+	emotionLevel 0.2
+	emotionRange 0.8
+music
+	name "MUSIC_VASARI_LOYALIST_2"
+	fileName "Vasari Loyalists - Unstoppable.ogg"
+	isLooping FALSE
+	actionLevel 0.5
+	actionRange 0.5
+	emotionLevel 0.2
+	emotionRange 0.8
+music
+	name "MUSIC_VASARI_LOYALIST_3"
+	fileName "Vasari Loyalists - Warning Shots.ogg"
+	isLooping FALSE
+	actionLevel 0.5
+	actionRange 0.5
+	emotionLevel 0.2
+	emotionRange 0.8
+music
+	name "MUSIC_VASARI_REBEL_1"
+	fileName "Vasari Rebels - Alliance Is The Only Way.ogg"
+	isLooping FALSE
+	actionLevel 0.5
+	actionRange 0.5
+	emotionLevel 0.2
+	emotionRange 0.8
+music
+	name "MUSIC_VASARI_REBEL_2"
+	fileName "Vasari Rebels - Diplomatic Envoys.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.2
+	emotionRange 0.8
+music
+	name "MUSIC_VASARI_REBEL_3"
+	fileName "Vasari Rebels - History in the Making.ogg"
+	isLooping FALSE
+	actionLevel 0.2
+	actionRange 0.25
+	emotionLevel -0.2
+	emotionRange 0.8
+music
+	name "MUSIC_VASARI_TROUBLE_1"
+	fileName "Vasari Trouble.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.2
+	emotionLevel -0.4
+	emotionRange 0.6
+music
+	name "MUSIC_VASARI_BATTLE_1"
+	fileName "Vasari Battle.ogg"
+	isLooping FALSE
+	actionLevel 0.7
+	actionRange 0.3
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_VASARI_SAD_1"
+	fileName "Vasari Sad.ogg"
+	isLooping FALSE
+	actionLevel 0.1
+	actionRange 0.15
+	emotionLevel -0.5
+	emotionRange 0.6
+music
+	name "MUSIC_UPBEAT_1"
+	fileName "Upbeat 1.ogg"
+	isLooping FALSE
+	actionLevel 0.25
+	actionRange 0.125
+	emotionLevel 0.0
+	emotionRange 0.5
+music
+	name "MUSIC_UPBEAT_2"
+	fileName "Upbeat 2.ogg"
+	isLooping FALSE
+	actionLevel 0.4
+	actionRange 0.2
+	emotionLevel -0.25
+	emotionRange 0.75
+music
+	name "MUSIC_UPBEAT_3"
+	fileName "Upbeat 3.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_PIRATE_ANNOUNCEMENT"
+	fileName "Pirate Announcement.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.0
+	emotionRange 1.0
+	

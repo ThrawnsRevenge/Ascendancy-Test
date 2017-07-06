@@ -1,0 +1,70 @@
+TXT
+size [451 , 81]
+creditsSummaryWindow
+	area [163, 56, 101, 24]
+	fontId "AssetAndResourceAmount"
+	iconArea [-2000, 0, 24, 24]
+	textArea [0, 0, 68, 24]
+metalSummaryWindow
+	area [270, 56, 101, 24]
+	fontId "AssetAndResourceAmount"
+	iconArea [-2000, 0, 24, 24]
+	textArea [0, 0, 68, 24]
+crystalSummaryWindow
+	area [377, 56, 101, 24]
+	fontId "AssetAndResourceAmount"
+	iconArea [-2000, 0, 24, 24]
+	textArea [0, 0, 68, 24]
+openEscapeMenuButton
+	area [1, 10, 50 , 15]
+	onBrush "ActionIconOpenEscapeMenuScreen"
+	offBrush "ActionIconOpenEscapeMenuScreen"
+openResearchButton
+	area [162, 10, 50, 35]
+	onBrush "ActionIconOpenResearchScreenEnabled"
+	offBrush "ActionIconOpenResearchScreenDisabled"
+openPlayersButton
+	area [54, 10, 50, 35]
+	onBrush "ActionIconOpenPlayerScreen"
+	offBrush "ActionIconOpenPlayerScreen"
+openRelationshipsButton
+	area [108, 10, 50, 35]
+	onBrush "ActionIconOpenRelationshipsScreen"
+	offBrush "ActionIconOpenRelationshipsScreen"
+openNPCButton
+	area [0, 0, 0, 0]
+	onBrush "Null"
+	offBrush "Null"
+toggleAttachedToEntityButton
+	area [29, 30, 23, 16]
+	onBrush "BottomWindowButtonToggleZoomToCursorOn"
+	offBrush "BottomWindowButtonToggleZoomToCursorOff"
+toggleScreenShotModeButton
+	area [3, 30, 23 , 16]
+	onBrush "BottomWindowButtonToggleScreenShotModeOn"
+	offBrush "BottomWindowButtonToggleScreenShotModeOff"
+shipSlotSummaryWindow
+	area [96, 56, 33, 24]
+	fontId "AssetAndResourceAmount"
+capitalShipSlotSummaryWindow
+	area [29, 56, 33, 24]
+	fontId "AssetAndResourceAmount"
+leftCap
+	highResGapTolerance 1
+	lowResArea [238, 10, 214, 37]
+	highResArea [238, 10, 214, 37]
+	playerIconArea [5, -2, 30, 37]
+	playerNameArea [40, 0, 179, 37]
+	playerNameFont "PlayerName"
+rightCap
+	highResGapTolerance 200
+	lowResArea [-300, 0, 300, 39]
+	highResArea [-36, 0, 45, 39]
+	playerIconArea [5, -2, 30, 30]
+	playerNameArea [30, 0, 30, 30]
+	playerNameFont "PlayerName"
+voiceChatActiveWindow
+	area [475, 100, 0, 0]
+	iconArea [0,0,0,0]
+	textArea [30,2,0,0]
+	fontId "NotificationPlayer"

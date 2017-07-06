@@ -1,0 +1,269 @@
+TXT 
+onlyLoadOnDemand FALSE
+brushCount 30 
+brush
+  name "AscendancyScenarioPictureUnderlay"
+  content "Simple"
+  fileName "AscendancyUI"
+  pixelBox [ 9 , 23 , 400 , 300 ]
+brush
+  name "AscendancyVerticalScrollCursor"
+	content "States"
+	Disabled
+		fileName "AscendancyUI"
+		pixelBox [ 27 , 0 , 9 , 23 ]
+	Pressed
+		fileName "AscendancyUI"
+		pixelBox [ 18 , 0 , 9 , 23 ]
+	CursorOver
+		fileName "AscendancyUI"
+		pixelBox [ 9 , 0 , 9 , 23 ]
+	Focused
+		fileName "AscendancyUI"
+		pixelBox [ 9 , 0 , 9 , 23 ]
+	Normal
+		fileName "AscendancyUI"
+		pixelBox [ 0 , 0 , 9 , 23 ]
+brush
+  name "AscendancyVerticalScrollDraggingCursor"
+	content "Simple"
+	fileName "AscendancyUI"
+	pixelBox [ 18 , 0 , 9 , 23 ]
+brush
+  name "AscendancyVerticalScrollUpArrow"
+	content "States"
+	Disabled
+		fileName "AscendancyUI"
+		pixelBox [ 69 , 0 , 11 , 11 ]
+	Pressed
+		fileName "AscendancyUI"
+		pixelBox [ 58 , 0 , 11 , 11 ]
+	CursorOver
+		fileName "AscendancyUI"
+		pixelBox [ 47 , 0 , 11 , 11 ]
+	Focused
+		fileName "AscendancyUI"
+		pixelBox [ 47 , 0 , 11 , 11 ]
+	Normal
+		fileName "AscendancyUI"
+		pixelBox [ 36 , 0 , 11 , 11 ]
+brush
+  name "AscendancyVerticalScrollDownArrow"
+	content "States"
+	Disabled
+		fileName "AscendancyUI"
+		pixelBox [ 69 , 12 , 11 , 11 ]
+	Pressed
+		fileName "AscendancyUI"
+		pixelBox [ 58 , 12 , 11 , 11 ]
+	CursorOver
+		fileName "AscendancyUI"
+		pixelBox [ 47 , 12 , 11 , 11 ]
+	Focused
+		fileName "AscendancyUI"
+		pixelBox [ 47 , 12 , 11 , 11 ]
+	Normal
+		fileName "AscendancyUI"
+		pixelBox [ 36 , 12 , 11 , 11 ]
+brush
+  name "AscendancyVerticalScrollBar"
+  content "MarginsAndStates"
+	stretchMargins
+		left 5
+		right 5
+		top 20
+		bottom 10
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+  Disabled
+    fileName "AscendancyUI"
+  	pixelBox [ 0 , 23 , 9 , 50 ]
+  Pressed
+    fileName "AscendancyUI"
+  	pixelBox [ 0 , 123 , 9 , 50 ]
+  CursorOver
+    fileName "AscendancyUI"
+  	pixelBox [ 0 , 73 , 9 , 50 ]
+  Focused
+    fileName "AscendancyUI"
+  	pixelBox [ 0 , 73 , 9 , 50 ]
+  Normal
+    fileName "AscendancyUI"
+  	pixelBox [ 0 , 23 , 9 , 50 ]
+brush
+  name "AscendancyVerticalScrollBarClick"
+  content "Margins"
+	stretchMargins
+		left 5
+		right 5
+		top 20
+		bottom 10
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+  fileName "AscendancyUI"
+	pixelBox [ 0 , 123 , 9 , 50 ]
+brush
+  name "AscendancyHorizontalScrollLeftArrow"
+  content "Simple"
+  fileName "Null"
+  pixelBox [ 0 , 0 , 1 , 1]
+brush
+  name "AscendancyHorizontalScrollRightArrow"
+  content "Simple"
+  fileName "Null"
+  pixelBox [ 0 , 0 , 1 , 1]
+brush
+	name "AscendancyHorizontalScrollBar"
+	content "Margins"
+	stretchMargins
+		left 5
+		right 5
+		top 0
+		bottom 0
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "AscendancyUI"
+	pixelBox [ 124 , 0 , 172 , 23 ]
+brush
+  name "AscendancyHorizontalScrollThumb"
+  content "States"
+	Disabled
+		fileName "AscendancyUI"
+		pixelBox [ 318 , 0 , 22 , 23 ]
+	Pressed
+		fileName "AscendancyUI"
+		pixelBox [ 296 , 0 , 22 , 23 ]
+	CursorOver
+		fileName "AscendancyUI"
+		pixelBox [ 102 , 0 , 22 , 23 ]
+	Focused
+		fileName "AscendancyUI"
+		pixelBox [ 296 , 0 , 22 , 23 ]
+	Normal
+		fileName "AscendancyUI"
+		pixelBox [ 80 , 0 , 22 , 23 ]
+brush
+  name "AscendancyHorizontalScrollThumbDragging"
+  content "Simple"
+	fileName "AscendancyUI"
+  pixelBox [ 296 , 0 , 22 , 23 ]
+brush
+  name "AscendancyCheckBoxEmpty"
+  content "Simple"
+  fileName "AscendancyUI"
+  pixelBox [ 340 , 0 , 19 , 19 ]
+brush
+  name "AscendancyCheckBoxOnOverlay"
+  content "Simple"
+  fileName "AscendancyUI"
+  pixelBox [ 359 , 0 , 19 , 19 ]
+brush
+  name "AscendancyLobbyRowItem"
+  content "Simple"
+  fileName "AscendancyUI"
+  pixelBox [ 0 , 323 , 550 , 45 ]
+brush
+  name "AscendancyListBox"
+	content "Margins"
+	stretchMargins
+		left 12
+		right 12
+		top 12
+		bottom 12
+	contentMargins
+		left 2
+		right 2
+		top 2
+		bottom 3
+	fileName "AscendancyUI"
+	pixelBox [ 421 , 253 , 99 , 64 ]
+brush
+  name "AscendancyListSelectedItem"
+	content "Simple"
+	fileName "AscendancyUI"
+	pixelBox [ 550 , 296 , 255 , 27 ]
+brush
+  name "AscendancyPlayerScreenPortrait" 
+  content "Simple"
+  fileName "AscendancyUI"
+  pixelBox [ 0 , 368 , 200 , 200 ]
+brush
+  name "AscendancyPlayerScreenPactPanel"
+  content "Simple"
+  fileName "AscendancyUI"
+  pixelBox [ 200 , 368 , 470 , 150 ]
+brush
+  name "AscendancyPlayerScreenTradePanel"
+  content "Simple"
+  fileName "AscendancyUI"
+  pixelBox [ 200 , 518 , 470 , 50 ]
+brush
+  name "AscendancyPlayerScreenPactNoAgreement"
+  content "Simple"
+  fileName "AscendancyUI"
+  pixelBox [ 670 , 368 , 42 , 32 ]
+brush
+  name "AscendancyPlayerScreenPactWeAgree"
+  content "Simple"
+  fileName "AscendancyUI"
+  pixelBox [ 670 , 400 , 42 , 32 ]
+brush
+  name "AscendancyPlayerScreenPactTheyAgree"
+  content "Simple"
+  fileName "AscendancyUI"
+  pixelBox [ 670 , 432 , 42 , 32 ]
+brush
+  name "AscendancyPlayerScreenPactBothAgree"
+  content "Simple"
+  fileName "AscendancyUI"
+  pixelBox [ 670 , 464 , 42 , 32 ]
+brush
+  name "AscendancyPlayerScreenHappinessMeter"
+  content "Simple"
+  fileName "AscendancyUI"
+  pixelBox [ 550 , 324 , 200 , 32 ]
+brush
+  name "AscendancyPlayerScreenHappinessMarker"
+  content "Simple"
+  fileName "AscendancyUI"
+  pixelBox [ 750 , 324 , 20 , 32 ]
+brush
+  name "AscendancyQuickReference"
+  content "Simple"
+  fileName "AscendancyQuickReference"
+  pixelBox [ 0 , 0 , 800 , 700 ]
+brush
+  name "AscendancyStatsGraph"
+  content "Simple"
+  fileName "AscendancyUI"
+  pixelBox [ 0 , 568 , 550 , 300 ]
+brush
+  name "AscendancyMenuToolTip"
+  content "Margins"
+  stretchMargins
+    left 10
+    right 10
+    top 10
+    bottom 10
+  contentMargins
+    left 10
+    right 10
+    top 5
+    bottom 5
+  fileName "AscendancyUI"
+  pixelBox [ 550 , 568 , 23 , 286 ]
+brush
+  name "AscendancyEmpireWindow"
+  content "Simple"
+  fileName "AscendancyUI"
+  pixelBox [ 750 , 368 , 200 , 600 ]
+  

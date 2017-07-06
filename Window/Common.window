@@ -1,0 +1,34 @@
+TXT
+textEntryDef
+	caretWidth 2
+	selectionAreaShrinkWidth 2
+	backdropBrush "TEXTENTRY"
+textListDef
+	itemTextOffsetFromLeft 5
+	contentMarginTop 10
+	contentMarginBottom 10
+	contentMarginLeft 10
+	contentMarginRight 2
+	scrollBarWidth 19
+	scrollWheelPositionMovement 10
+	backdropBrush "AscendancyListBox"
+	itemSelectedBackdropBrush "AscendancyListSelectedItem"
+screenButtonDef
+	offsetWhenPressed [1, 1]
+	textColorWhenDisabled ff555555
+horizontalScrollBarDef
+	backdrop "AscendancyHorizontalScrollBar"
+	thumb "AscendancyHorizontalScrollThumb"
+	thumbDragging "AscendancyHorizontalScrollThumb"
+	thumbOverlay "AscendancyHorizontalScrollThumb"
+	thumbOverlayDragging "AscendancyHorizontalScrollThumbDragging"
+	beginArrow "AscendancyHorizontalScrollLeftArrow"
+	endArrow "AscendancyHorizontalScrollRightArrow"
+verticalScrollBarDef
+	backdrop "ScrollBarVertical"
+	thumb "AscendancyVerticalScrollBar"
+  thumbDragging "AscendancyVerticalScrollBarClick"
+  thumbOverlay "AscendancyVerticalScrollCursor"
+	thumbOverlayDragging "AscendancyVerticalScrollDraggingCursor"
+	beginArrow "AscendancyVerticalScrollUpArrow"
+	endArrow "AscendancyVerticalScrollDownArrow"

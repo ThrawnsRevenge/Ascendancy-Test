@@ -1,0 +1,17 @@
+TXT
+backdropDimPercentage 0.9
+backdropBrush "AscendancyBackdropDialogSelect"
+titleOverlayBrush "DialogTitleOverlay"
+size [3000 , 600]
+contentRefArea [1200, 200, 371, 207]
+titleRefArea [1200, 60, 371, 30]
+titleOverlayRefArea [0, 0, 556, 90]
+acceptButton
+	area [1400, 257,  220, 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 5
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainAccept"
+	text "IDS_DIALOGWINDOW_ACCEPTBUTTON"

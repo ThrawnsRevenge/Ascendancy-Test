@@ -1,0 +1,43 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 0
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 3
+entityModifier
+	buffEntityModifierType "DamageAsDamageTarget"
+	value
+		Level:0 -0.100000
+		Level:1 -0.130000
+		Level:2 -0.160000
+		Level:3 -0.200000
+entityModifier
+	buffEntityModifierType "DamageAsDamageTargetFromForward"
+	value
+		Level:0 -0.800000
+		Level:1 -0.850000
+		Level:2 -0.900000
+		Level:3 -0.9500000
+entityModifier
+	buffEntityModifierType "EnergyWeaponCooldown"
+	value
+		Level:0 0.200000
+		Level:1 0.250000
+		Level:2 0.300000
+		Level:3 0.350000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 60.000000
+		Level:1 75.000000
+		Level:2 90.000000
+		Level:3 110.000000

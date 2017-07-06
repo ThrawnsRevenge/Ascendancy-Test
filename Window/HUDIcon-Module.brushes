@@ -1,0 +1,1296 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 139
+brush
+	name "MAINVIEWICON_NAVAL_COMMAND_STATION"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 302 , 540, 299 , 76 ]
+brush
+	name "HUDICON_PLANETMODULE_TECHORBITALFRIGATEFACTORY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_TECHORBITALCAPITALSHIPFACTORY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_TECHORBITALCULTURECENTER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_TECHORBITALHANGARDEFENSE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_TECHORBITALGAUSSDEFENSE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_TECHORBITALSHIELDGENERATOR"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_TECHORBITALREPAIRPLATFORM"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_TECHORBITALCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_TECHORBITALNONCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_TECHORBITALTRADEPORT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_TECHORBITALREFINERY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_TECHORBITALMETALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_TECHORBITALCRYSTALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_TECHORBITALJUMPBLOCKER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_TECHORBITALCANNON"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PIRATEORBITALGAUSSDEFENSE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PSIORBITALFRIGATEFACTORY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PSIORBITALCAPITALSHIPFACTORY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PSIORBITALCULTURECENTER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PSIORBITALHANGARDEFENSE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PSIORBITALBEAMDEFENSE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PSIORBITALREPAIRPLATFORM"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PSIORBITALCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PSIORBITALNONCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PSIORBITALANTIMATTERRECHARGER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PSIORBITALTRADEPORT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PSIORBITALMETALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PSIORBITALCRYSTALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PSIORBITALJUMPBLOCKER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PSIORBITALCANNON"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PHASEORBITALFRIGATEFACTORY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PHASEORBITALCAPITALSHIPFACTORY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PHASEORBITALCULTURECENTER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PHASEORBITALHANGARDEFENSE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PHASEORBITALMISSILEDEFENSE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PHASEORBITALREPAIRPLATFORM"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PHASEORBITALCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PHASEORBITALNONCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PHASEORBITALPHASEGATE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PHASEORBITALNANOWEAPONJAMMER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PHASEORBITALTRADEPORT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PHASEORBITALREFINERY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PHASEORBITALMETALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PHASEORBITALCRYSTALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PHASEORBITALJUMPBLOCKER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICON_PLANETMODULE_PHASEORBITALCANNON"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Pressed
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	CursorOver
+		fileName "Unit_Hud_Highlight"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 2 , 2 , 52 , 37 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_TECHORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 91 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_TECHORBITALTITANFACTORY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 478 , 837 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PSIORBITALTITANFACTORY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 441 , 959 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALTITANFACTORY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 474 , 962 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_TECHORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 121 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_TECHORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 181 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_TECHORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 31 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_TECHORBITALGAUSSDEFENSE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_TECHORBITALSHIELDGENERATOR"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 421 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_TECHORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 151 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_TECHORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 211 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_TECHORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 211 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_TECHORBITALTRADEPORT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 241 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_TECHORBITALREFINERY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 331 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_TECHORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 361 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_TECHORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 391 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_TECHORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 61 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_TECHORBITALCANNON"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 271 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PIRATEORBITALGAUSSDEFENSE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PSIORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 91 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PSIORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 121 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PSIORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 181 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PSIORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 31 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PSIORBITALBEAMDEFENSE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PSIORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 151 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PSIORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 211 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PSIORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 211 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PSIORBITALANTIMATTERRECHARGER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 421 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PSIORBITALTRADEPORT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 241 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PSIORBITALREFINERY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 331 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PSIORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 361 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PSIORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 391 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PSIORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 61 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PSIORBITALCANNON"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 271 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 91 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 121 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 181 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 31 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALMISSILEDEFENSE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 151 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 211 , 151 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 211 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALPHASEGATE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 421 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALNANOWEAPONJAMMER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 451 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALTRADEPORT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 241 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALREFINERY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 331 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 391 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 61 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALCANNON"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 271 , 61 , 28 , 28 ]
+brush
+	name "EMPIREICON_CRUISER_SHIPYARD"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 1 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CRUISER_SHIPYARD"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 1 , 1, 299 , 76 ]
+brush
+	name "EMPIREICON_CAPITAL_SHIPYARD"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 30 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITAL_SHIPYARD"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 302 , 1, 299 , 76 ]
+brush
+	name "EMPIREICON_SUPER_CAPITAL_SHIPYARD"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 59 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SUPER_CAPITAL_SHIPYARD"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 603 , 1 , 299 , 76 ]
+brush
+	name "EMPIREICON_DURASTEEL_EXTRACTOR"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 88 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_DURASTEEL_EXTRACTOR"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 1 , 78, 299 , 76 ]
+brush
+	name "EMPIREICON_TIBANNA_STATION"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 117 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_TIBANNA_STATION"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 302 , 78, 299 , 76 ]
+brush
+	name "EMPIREICON_BROADCAST_CENTER"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 146 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_BROADCAST_CENTER"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 603 , 78, 299 , 76 ]
+brush
+	name "EMPIREICON_GOLAN_I_PLATFORM"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 1 , 30 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_GOLAN_I_PLATFORM"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 1 , 155 , 299 , 76 ]
+brush
+	name "EMPIREICON_GOLAN_II_PLATFORM"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 1 , 30 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_GOLAN_II_PLATFORM"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 302 , 155 , 299 , 76 ]
+brush
+	name "EMPIREICON_GOLAN_III_PLATFORM"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 1 , 30 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_GOLAN_III_PLATFORM"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 603 , 155 , 299 , 76 ]
+brush
+	name "EMPIREICON_REPAIR_PLATFORM"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 30 , 30 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_REPAIR_PLATFORM"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 1 , 232, 299 , 76 ]
+brush
+	name "EMPIREICON_MILITARY_RESEARCH_PLATFORM"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 59 , 30 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_MILITARY_RESEARCH_PLATFORM"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 302 , 232, 299 , 76 ]
+brush
+	name "EMPIREICON_CIVIC_RESEARCH_PLATFORM"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 59 , 30 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CIVIC_RESEARCH_PLATFORM"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 603 , 232, 299 , 76 ]
+brush
+	name "EMPIREICON_TRADE_PORT"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 88 , 30 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_TRADE_PORT"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 1 , 309, 299 , 76 ]
+brush
+	name "EMPIREICON_EMPRESS_STATION"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 117 , 30 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_EMPRESS_STATION"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 302 , 309, 299 , 76 ]
+brush
+	name "EMPIREICON_ESSELES_STATION"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 146 , 30 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_ESSELES_STATION"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 603 , 309, 299 , 76 ]
+brush
+	name "EMPIREICON_SMUGGLERS_DEN"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 88 , 30 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SMUGGLERS_DEN"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 1 , 386, 299 , 76 ]
+brush
+	name "EMPIREICON_IMPERIAL_COMMAND_CENTER"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 1 , 59 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_IMPERIAL_COMMAND_CENTER"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 302 , 386, 299 , 76 ]
+brush
+	name "EMPIREICON_GALAXY_GUN"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 30 , 59 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_GALAXY_GUN"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 603 , 386, 299 , 76 ]
+brush
+	name "EMPIREICON_HANGAR_STATION"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 59 , 59 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_BRASK_HANGAR_STATION"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 1 , 463, 299 , 76 ]
+brush
+	name "EMPIREICON_VISVIA_DEFENSE_STATION"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 1 , 30 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_VISVIA_DEFENSE_STATION"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 302 , 463, 299 , 76 ]
+brush
+	name "EMPIREICON_OTO_MILITARY_OUTPOST"
+	content "Simple"
+	fileName "Facility_Empire_Tree"
+	pixelBox [ 117 , 30 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_OTO_MILITARY_OUTPOST"
+	content "Simple"
+	fileName "Facility_Main_View"
+	pixelBox [ 603 , 463, 299 , 76 ]

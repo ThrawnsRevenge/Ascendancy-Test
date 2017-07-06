@@ -1,0 +1,20 @@
+TXT
+changeTypeButton
+	area [11, -15, 200 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 35
+	underlay "AscendancyMenuScreenButtonNoIconLarge"
+	overlay "Null"
+	icon "Null"
+	text "IDSGalaxySetupWindowChangeMapTypeButton"
+labelText-SavedSinglePlayer "IDSSelectGameSaveTypeWindowLabelTextSavedSinglePlayer"
+labelText-SavedMultiPlayer "IDSSelectGameSaveTypeWindowLabelTextSavedMultiPlayer"
+labelText-AutoSavedSinglePlayer "IDSSelectGameSaveTypeWindowLabelTextAutoSavedSinglePlayer"
+labelText-AutoSavedMultiPlayer "IDSSelectGameSaveTypeWindowLabelTextAutoSavedMultiPlayer"
+labelText-RecordedSinglePlayer "IDSSelectGameSaveTypeWindowLabelTextRecordedSinglePlayer"
+labelText-RecordedMultiPlayer "IDSSelectGameSaveTypeWindowLabelTextRecordedMultiPlayer"
+labelText-AutoRecordedSinglePlayer "IDSSelectGameSaveTypeWindowLabelTextAutoRecordedSinglePlayer"
+labelText-AutoRecordedMultiPlayer "IDSSelectGameSaveTypeWindowLabelTextAutoRecordedMultiPlayer"
+labelText-CloudSavedSinglePlayer "IDSSelectGameSaveTypeWindowLabelTextCloudSavedSinglePlayer"
+labelText-CloudSavedMultiPlayer "IDSSelectGameSaveTypeWindowLabelTextCloudSavedMultiPlayer"

@@ -1,0 +1,54 @@
+TXT
+tabWindow
+	topLeftOffset [0, -20]
+	buttonTopLeftOffset [ 15 , 120]
+	buttonSize [ 75 , 75 ]
+	buttonIndicatorArea [0, 0, 0, 0]
+	buttonIndicatorBackdrop "Null"
+	titleStringId "IDSOptionsScreenTitle"
+	titleFontId "TabbedScreenTitle"
+	titleArea [-5000, -5000, 190, 40]
+	titleOverlayArea [21, 33, 190, 40]
+	titleOverlay "TabWindowTitleOverlay"
+	buttonsBackdropArea [0, 0, 300, 808]
+	buttonsBackdropDetailArea [0, 0, 210, 749]
+	contentArea [260, 0, 714, 808]
+	buttonsBackdrop "TabWindowButtonBackdropFrontEnd"
+	buttonsBackdropDetail ""
+	contentBackdrop "AscendancyBackdropMenuOptions"
+	nonActiveButtonInternals
+		fontId "ButtonLabel"
+		iconOffsetFromLeft -8
+		textOffsetFromLeft 85
+		underlay "AscendancyMenuButtonNonActive"
+		overlay "MenuButtonOverlay"
+	activeButtonInternals
+		fontId "ButtonLabel"
+		iconOffsetFromLeft -8
+		textOffsetFromLeft 85
+		underlay "AscendancyMenuButtonActive"
+		overlay "MenuButtonOverlay"
+	closeButton
+		area [15, 700, 75 , 75]
+		fontId "ButtonLabel"
+		iconOffsetFromLeft -8
+		textOffsetFromLeft 85
+		underlay "AscendancyMenuButtonNonActive"
+		overlay "MenuButtonOverlay"
+		icon "AscendancyIconsMainBack"
+		text "IDSOptionsScreenBackButton"
+sharedDef
+	screenCheckBoxDef
+		boxWidth 33
+		textFontId "Label"
+		textLeftOffset 40
+		boxBackdrop "AscendancyCheckBoxEmpty"
+		boxOverlayWhenOn "AscendancyCheckBoxOnOverlay"
+		boxOverlayWhenOff ""
+	screenScrollBarDef
+		labelFontId "Label"
+		labelWidth 150
+	anchorOffset [0, 52]
+	textEntryDef
+		labelFontId "Label"
+		textEntryFontId "TextEntry"

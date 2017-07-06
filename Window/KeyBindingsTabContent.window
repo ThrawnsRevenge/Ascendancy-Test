@@ -1,0 +1,43 @@
+TXT
+tabButtonIcon "AscendancyIconsMainKey"
+tabButtonText "IDSOptionsScreenKeyBindingsTabButton"
+uiMappingList
+	area [0, 100, 455, 510]
+	fontId "ListItem"
+	itemHeight 18
+	itemTextOffsetFromLeft 5
+	nameWidth 200
+	scrollBarWidth 19
+	scrollWheelDelta 14
+	scrollBarDelta 14
+	selectedItemBackdrop "ListWindowSelectedItem"
+resetAllMappingsButton
+	area [0, 650, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 9
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainReset"
+	text "IDSOptionsScreenKeyBindingsResetAllMappings"
+addMappingButton
+	area [470, 100, 110, 40]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 41
+	underlay "AscendancyMenuScreenButtonSmall"
+	overlay "Null"
+	icon "Null"
+	text "IDSOptionsScreenKeyBindingsAddMapping"
+clearMappingButton
+	area [470, 152, 110, 40]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 35
+	underlay "AscendancyMenuScreenButtonSmall"
+	overlay "Null"
+	icon "Null"
+	text "IDSOptionsScreenKeyBindingsClearMapping"
+showMappingsOnInfoCardsCheckBox
+	area [0, 625, 220, 30]
+	text "IDSOptionsScreenUserInterfaceOptionsShowMappingsOnInfoCards"

@@ -1,0 +1,58 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "Imperial_FleetResearchCommand_Icon8"
+smallHudIcon "Imperial_FleetResearchCommand_Icon8"
+infoCardIcon "PA_FleetResearchCommand8"
+NameStringID "IDS_RESEARCHSUBJECT_MAXSHIPSLOTS7_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_MAXSHIPSLOTS7_DESCRIPTION"
+researchWindowLocation
+	block 2
+	pos [ 7 , 1 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "AlignmentResearch_MaxShipSlots6"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 120.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1800.000000
+	metal 350.000000
+	crystal 550.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 7
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 5
+researchModifier
+	modifierType "ShipMaxSlots"
+	baseValue 0.000000
+	perLevelValue 140.000000
+researchModifier
+	modifierType "IncomePercLost"
+	baseValue 0.000000
+	perLevelValue 0.125750
+researchModifier
+	modifierType "ShipMaxSlotLevel"
+	baseValue 0.000000
+	perLevelValue 1.000000
+researchModifier
+	modifierType "CapitalShipMaxSlots"
+	baseValue 0.000000
+	perLevelValue 8.000000
+researchModifier
+	modifierType "CapitalShipMaxSlotLevel"
+	baseValue 0.000000
+	perLevelValue 1.000000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

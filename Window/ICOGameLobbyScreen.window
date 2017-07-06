@@ -1,0 +1,80 @@
+TXT
+backdrop "AscendancyBackdropMenuInternetGameLobby"
+textEntryDef
+	labelFontId "Label"
+	textEntryFontId "ChatTextEntry"
+backButton
+	area [40, 680, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 7
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainBack"
+	text "IDSICOGameLobbyScreenBackButton"
+startGameButton
+	area [730, 680, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 7
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainForward"
+	text "IDSICOGameLobbyScreenStartGameButton"
+openInviteOverlayButton
+	area [794, 580, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 5
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"			
+	icon "AscendancyIconsMainUsers"
+	text "IDSGalaxySetupWindowInviteViaOverlayTitle"
+openGameOptionsDialogButton
+	area [270, 680, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 5
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainGamepad"
+	text "IDSGalaxySetupWindowOpenGameOptionsDialog"
+openVictoryOptionsDialogButton
+	area [500, 680, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 7
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainFlag"
+	text "IDSGalaxySetupWindowOpenVictoryOptionsDialog"
+chatReceivedTextList
+	area [30, 570, 550, 115]
+	itemGap 1
+chatEntry
+	area [585, 650, 425, 35]
+	labelWidth 0
+	labelText ""
+playerSetupWindow
+	area [30, 100, 700, 500]
+galaxyInfoWindow
+	area [585, 70, 425, 400]
+channelNameWindow
+	area [750, 20, 220, 60]
+	labelArea [0, 0, 80, 60]
+	valueArea [75, 0, 220, 60]
+	labelFontId "ButtonLabel"
+	valueFontId "ButtonLabel"
+	labelStringId "IDSICOLobbyScreenChatChannelName"
+changeChannelButton
+	area [580, 580, 220, 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 7
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainChat"
+	text "IDSICOLobbyScreenChangeChannelButton"
+victoryInfoFont "ButtonLabel"
+victoryInfoPosition [-5000,605]
+spaceBetweenVictoryInfo -25

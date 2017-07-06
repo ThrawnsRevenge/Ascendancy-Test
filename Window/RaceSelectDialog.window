@@ -1,0 +1,389 @@
+TXT
+backdropDimPercentage 0.9
+backdropBrush "Null"
+titleOverlayBrush ""
+size [ 1024 , 768 ]
+contentRefArea [ 0 , 0 , 1024 , 768 ]
+titleRefArea [90, 40, 508, 30]
+titleOverlayRefArea [0, 0, 693, 90]
+numFactionWindows 4
+	factionSelectWindowDef
+		backdropBrush "AscendancyBackdropFactionSelectNR"
+		backdropArea [40,30,946,717]
+		smallFactionPortraitOverlay "Null"
+		smallFactionPortraitOffset [0,0]
+		previousFactionPortraitBrush "RaceSelectDialogPhaseLoyalistPortraitSmall"
+		previousFactionPortraitArea [-5000, -5000, 65, 40]
+		nextFactionPortraitBrush "RaceSelectDialogPsiLoyalistPortraitSmall"
+		nextFactionPortraitArea [-5000, -5000, 65, 40]
+		leftPlayer "PlayerNewRep"
+		rightPlayer "PlayerNewRep"
+		raceNameFont "GameOverTitle"
+		raceNameID "IDS_EMPTY"
+		raceNameArea [507,75,0,0]
+		raceDescriptionFont "InfoCardStandard"
+		raceDescriptionID "IDS_EMPTY"
+		raceDescriptionArea [420,27,190,190]
+		leftPlayerNameArea [-5000,370,0,0]
+		rightPlayerNameArea [-5000, -5000 , 0 , 0 ]
+		playerDescriptionFont "InfoCardStandard"
+		leftPlayerDescriptionID "IDS_RACESELECTDIALOG_NEWREP_DESCRIPTION"
+		leftPlayerDescriptionArea [555,350,400,500]
+		rightPlayerDescriptionID "IDS_EMPTY"
+		rightPlayerDescriptionArea [560,140,400,500]
+		portraitOverlayBrush "Null"
+		portraitUnderlayBrush "PlayerScreenPortraitUnderlay"
+		portraitBackdropBrush "PlayerScreenHappinessBackdropForHumanPlayer"
+		frameOffset [0,-26]
+		backdropOffset [0,168]
+		leftPlayerPortraitBrush "Null"
+		leftPlayerPortraitArea [-5000,-5000,195,219]
+		rightPlayerPortraitBrush "Null"
+		rightPlayerPortraitArea [-5000, -5000,0,0]
+		techButtonDef
+			backdrop "ResearchWindowButtonBackdrop"
+			overlay ""
+		sharedTechsStartPosition [-5000, -4500]
+		spaceBetweenSharedTechs 10
+			sharedTechOne "NewRepResearch_ShipUnlock_Viscount"
+			sharedTechTwo "NewRepResearch_ShipUnlock_Viscount"
+			sharedTechThree "NewRepResearch_ShipUnlock_Viscount"
+			sharedTechFour "NewRepResearch_ShipUnlock_Viscount"
+		sharedCapitalShipsStartPosition [210, 610]
+		spaceBetweenSharedCapitalShips 10
+			sharedCapitalShipOne "NewRep_MC80"
+			sharedCapitalShipTwo "NewRep_MC80B"
+			sharedCapitalShipThree "NewRep_MC90"
+			sharedCapitalShipFour "NewRep_Nebula"
+			sharedCapitalShipFive "NewRep_Endurance"
+			sharedCapitalShipSix "NewRep_Dauntless_RaceSelect"
+		spaceBetweenFactionTechs 10
+		leftFactionTechsStartPosition [80, 590]
+			leftFactionTechOne "NewRepResearch_ShipUnlock_Viscount"
+			leftFactionTechTwo "NewRepResearch_AbilityUnlock_PlanetaryIon"
+			leftFactionTechThree "NewRepResearch_Economy_SmugglersDen"
+			leftFactionTechFour "NewRepResearch_ShipUnlock_Empress"
+			leftFactionTechFive "NewRepResearch_Global_DefectorIntegration"
+			leftFactionTechSix "NewRepResearch_Global_CultureDamage00"
+		rightFactionTechsStartPosition [ 400, 590]
+			rightFactionTechOne "NewRepResearch_Global_BomberSuperiority"
+			rightFactionTechTwo "NewRepResearch_Global_ResponsibleGovernment"
+			rightFactionTechThree "NewRepResearch_Global_FreeTrade"
+			rightFactionTechFour "NewRepResearch_Global_SlowProduction"
+			rightFactionTechFive "NewRepResearch_Global_ShieldsMitigation"
+			rightFactionTechSix "NewRepResearch_AbilityUnlock_BoardingParty"
+		selectLeftButton
+			area [510, 475, 75 , 75]
+			underlayBrush "AscendancyButtonsFactionSelectSelectNR"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+		selectRightButton
+			area [-5000 , -5000 , 230 , 105]
+			underlayBrush "Null"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+		selectRandomButton
+			area [440, 475, 75 , 75]
+			underlayBrush "AscendancyButtonsFactionSelectRandomNR"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+		previousRaceButton
+			area [370, 475, 75 , 75]
+			underlayBrush "AscendancyButtonsFactionSelectPreviousNR"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+		nextRaceButton
+			area [580, 475, 75 , 75]
+			underlayBrush "AscendancyButtonsFactionSelectNextNR"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+	factionSelectWindowDef
+		backdropBrush "AscendancyBackdropFactionSelectIR"
+		backdropArea [40,30,946,717]
+		smallFactionPortraitOverlay "Null"
+		smallFactionPortraitOffset [0,0]
+		previousFactionPortraitBrush "Null"
+		previousFactionPortraitArea [-5000, -5000, 65, 40]
+		nextFactionPortraitBrush "Null"
+		nextFactionPortraitArea [-5000, -5000, 65, 40]
+		leftPlayer "PlayerRemnant"
+		rightPlayer "PlayerRemnant"
+		raceNameFont "GameOverTitle"
+		raceNameID "IDS_EMPTY"
+		raceNameArea [507,75,0,0]
+		raceDescriptionFont "InfoCardStandard"
+		raceDescriptionID "IDS_EMPTY"
+		raceDescriptionArea [420,27,190,190]
+		leftPlayerNameArea [-5000,370,0,0]
+		rightPlayerNameArea [-5000, -5000 , 0 , 0 ]
+		playerDescriptionFont "InfoCardStandard"
+		leftPlayerDescriptionID "IDS_RACESELECTDIALOG_REMNANT_DESCRIPTION"
+		leftPlayerDescriptionArea [555,350,400,500]
+		rightPlayerDescriptionID "IDS_EMPTY"
+		rightPlayerDescriptionArea [560,140,400,500]
+		portraitOverlayBrush "Null"
+		portraitUnderlayBrush "Null"
+		portraitBackdropBrush "Null"
+		frameOffset [0,-26]
+		backdropOffset [0,168]
+		leftPlayerPortraitBrush "Null"
+		leftPlayerPortraitArea [-5000,-5000,195,219]
+		rightPlayerPortraitBrush "Null"
+		rightPlayerPortraitArea [-5000, -5000,0,0]
+		techButtonDef
+			backdrop "ResearchWindowButtonBackdrop"
+			overlay ""
+		sharedTechsStartPosition [-5000, -4500]
+		spaceBetweenSharedTechs 10
+			sharedTechOne "RemnantResearch_ShipUnlock_Executor"
+			sharedTechTwo "RemnantResearch_ShipUnlock_Executor"
+			sharedTechThree "RemnantResearch_ShipUnlock_Executor"
+			sharedTechFour "RemnantResearch_ShipUnlock_Executor"
+		sharedCapitalShipsStartPosition [210, 610]
+		spaceBetweenSharedCapitalShips 10
+			sharedCapitalShipOne "Remnant_Altor"
+			sharedCapitalShipTwo "Remnant_ISDI"
+			sharedCapitalShipThree "Remnant_ISDII"
+			sharedCapitalShipFour "Remnant_Allegiance"
+			sharedCapitalShipFive "Remnant_WorldDevastator"
+			sharedCapitalShipSix "Remnant_Strikecruiser_RaceSelect"
+		spaceBetweenFactionTechs 10
+		leftFactionTechsStartPosition [80, 590]
+			leftFactionTechOne "RemnantResearch_ShipUnlock_Executor"
+			leftFactionTechTwo "RemnantResearch_ShipUnlock_GalaxyGun"
+			leftFactionTechThree "RemnantResearch_ShipUnlock_CommandStation"
+			leftFactionTechFour "RemnantResearch_Flat_PowerSymbol"
+			leftFactionTechFive "RemnantResearch_Economy_MilitaryComplex"
+			leftFactionTechSix "RemnantResearch_Global_ImperialPurity"
+		rightFactionTechsStartPosition [ 400, 590]
+			rightFactionTechOne "RemnantResearch_Global_PellaeonDoctrine"
+			rightFactionTechTwo "RemnantResearch_Global_PrisonCamps"
+			rightFactionTechThree "RemnantResearch_Global_DaalaDoctrine"
+			rightFactionTechFour "RemnantResearch_Global_Ruthless"
+			rightFactionTechFive "RemnantResearch_Global_Inexorable"
+			rightFactionTechSix "RemnantResearch_AbilityUnlock_HVGun"
+		selectLeftButton
+			area [510, 475, 75 , 75]
+			underlayBrush "AscendancyButtonsFactionSelectSelectIR"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+		selectRightButton
+			area [-5000 , -5000 , 230 , 105]
+			underlayBrush "Null"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+		selectRandomButton
+			area [440, 475, 75 , 75]
+			underlayBrush "AscendancyButtonsFactionSelectRandomIR"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+		previousRaceButton
+			area [370, 475, 75 , 75]
+			underlayBrush "AscendancyButtonsFactionSelectPreviousIR"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+		nextRaceButton
+			area [580, 475, 75 , 75]
+			underlayBrush "AscendancyButtonsFactionSelectNextIR"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+	factionSelectWindowDef
+		backdropBrush "AscendancyBackdropFactionSelectEOTH"
+		backdropArea [40,30,946,717]
+		smallFactionPortraitOverlay "Null"
+		smallFactionPortraitOffset [-5000,-5000]
+		previousFactionPortraitBrush "RaceSelectDialogPhaseLoyalistPortraitSmall"
+		previousFactionPortraitArea [-5000, -5000, 65, 40]
+		nextFactionPortraitBrush "RaceSelectDialogPsiLoyalistPortraitSmall"
+		nextFactionPortraitArea [-5000, -5000, 65, 40]
+		leftPlayer "PlayerEotH"
+		rightPlayer "PlayerEotH"
+		raceNameFont "GameOverTitle"
+		raceNameID "IDS_EMPTY"
+		raceNameArea [550,75,0,0]
+		raceDescriptionFont "InfoCardStandard"
+		raceDescriptionID "IDS_EMPTY"
+		raceDescriptionArea [420,27,190,190]
+		leftPlayerNameArea [-5000,370,0,0]
+		rightPlayerNameArea [-5000, -5000 , 0 , 0 ]
+		playerDescriptionFont "InfoCardStandard"
+		leftPlayerDescriptionID "IDS_RACESELECTDIALOG_EOTH_DESCRIPTION"
+		leftPlayerDescriptionArea [555,350,400,500]
+		rightPlayerDescriptionID "IDS_EMPTY"
+		rightPlayerDescriptionArea [560,140,400,500]
+		portraitOverlayBrush "Null"
+		portraitUnderlayBrush "PlayerScreenPortraitUnderlay"
+		portraitBackdropBrush "PlayerScreenHappinessBackdropForHumanPlayer"
+		frameOffset [0,-26]
+		backdropOffset [0,168]
+		leftPlayerPortraitBrush "Null"
+		leftPlayerPortraitArea [-5000,-5000,195,219]
+		rightPlayerPortraitBrush "Null"
+		rightPlayerPortraitArea [-5000, -5000,0,0]
+		techButtonDef
+			backdrop "ResearchWindowButtonBackdrop"
+			overlay ""
+		sharedTechsStartPosition [-5000, -4500]
+		spaceBetweenSharedTechs 10
+			sharedTechOne "RemnantResearch_ShipUnlock_Executor"
+			sharedTechTwo "RemnantResearch_ShipUnlock_Executor"
+			sharedTechThree "RemnantResearch_ShipUnlock_Executor"
+			sharedTechFour "RemnantResearch_ShipUnlock_Executor"
+		sharedCapitalShipsStartPosition [210, 610]
+		spaceBetweenSharedCapitalShips 10
+			sharedCapitalShipOne "EotH_Syndic"
+			sharedCapitalShipTwo "EotH_Phalanx"
+			sharedCapitalShipThree "EotH_Ascendancy"
+			sharedCapitalShipFour "EotH_Budirech_RaceSelect"
+			sharedCapitalShipFive "EotH_Auriette_RaceSelect"
+			sharedCapitalShipSix "EotH_Kariek_RaceSelect"
+		spaceBetweenFactionTechs 10
+		leftFactionTechsStartPosition [80, 590]
+			leftFactionTechOne "EotHResearch_ShipUnlock_Visvia"
+			leftFactionTechTwo "EotHResearch_ShipUnlock_Brask"
+			leftFactionTechThree "EotHResearch_Economy_RapidExtraction"
+			leftFactionTechFour "EotHResearch_Economy_PrimaryIndustry"
+			leftFactionTechFive "EotHResearch_Flat_Afterburn"
+			leftFactionTechSix "EotHResearch_Global_ExitDistance"
+		rightFactionTechsStartPosition [ 400, 590]
+			rightFactionTechOne "EotHResearch_Global_RulingFamilies"
+			rightFactionTechTwo "EotHResearch_Global_Csapla"
+			rightFactionTechThree "EotHResearch_Global_Irokini"
+			rightFactionTechFour "AlignmentResearch_Global_CorporateOutreach"
+			rightFactionTechFive "RemnantResearch_AbilityUnlock_HVGun"
+			rightFactionTechSix "EotHResearch_Global_Engines"
+		selectLeftButton
+			area [510, 475, 75 , 75]
+			underlayBrush "AscendancyButtonsFactionSelectSelectEOTH"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+		selectRightButton
+			area [-5000 , -5000 , 230 , 105]
+			underlayBrush "Null"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+		selectRandomButton
+			area [440, 475, 75 , 75]
+			underlayBrush "AscendancyButtonsFactionSelectRandomEOTH"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+		previousRaceButton
+			area [370, 475, 75 , 75]
+			underlayBrush "AscendancyButtonsFactionSelectPreviousEOTH"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+		nextRaceButton
+			area [580, 475, 75 , 75]
+			underlayBrush "AscendancyButtonsFactionSelectNextEOTH"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+	factionSelectWindowDef
+		backdropBrush "AscendancyBackdropFactionSelectPA"
+		backdropArea [40,30,946,717]
+		smallFactionPortraitOverlay "Null"
+		smallFactionPortraitOffset [-5000,-5000]
+		previousFactionPortraitBrush "RaceSelectDialogPhaseLoyalistPortraitSmall"
+		previousFactionPortraitArea [-5000, -5000, 65, 40]
+		nextFactionPortraitBrush "RaceSelectDialogPsiLoyalistPortraitSmall"
+		nextFactionPortraitArea [-5000, -5000, 65, 40]
+		leftPlayer "PlayerAlignment"
+		rightPlayer "PlayerAlignment"
+		raceNameFont "GameOverTitle"
+		raceNameID "IDS_EMPTY"
+		raceNameArea [550,75,0,0]
+		raceDescriptionFont "InfoCardStandard"
+		raceDescriptionID "IDS_EMPTY"
+		raceDescriptionArea [420,27,190,190]
+		leftPlayerNameArea [-5000,370,0,0]
+		rightPlayerNameArea [-5000, -5000 , 0 , 0
+		playerDescriptionFont "InfoCardStandard"
+		leftPlayerDescriptionID "IDS_RACESELECTDIALOG_ALIGNMENT_DESCRIPTION"
+		leftPlayerDescriptionArea [555,350,400,500]
+		rightPlayerDescriptionID "IDS_EMPTY"
+		rightPlayerDescriptionArea [560,140,400,500]
+		portraitOverlayBrush "Null"
+		portraitUnderlayBrush "PlayerScreenPortraitUnderlay"
+		portraitBackdropBrush "PlayerScreenHappinessBackdropForHumanPlayer"
+		frameOffset [0,-26]
+		backdropOffset [0,168]
+		leftPlayerPortraitBrush "Null"
+		leftPlayerPortraitArea [-5000,-5000,195,219]
+		rightPlayerPortraitBrush "Null"
+		rightPlayerPortraitArea [-5000, -5000,0,0]
+		techButtonDef
+			backdrop "ResearchWindowButtonBackdrop"
+			overlay ""
+		sharedTechsStartPosition [-5000, -5000]
+		spaceBetweenSharedTechs 10
+			sharedTechOne "RemnantResearch_ShipUnlock_Executor"
+			sharedTechTwo "RemnantResearch_ShipUnlock_Executor"
+			sharedTechThree "RemnantResearch_ShipUnlock_Executor"
+			sharedTechFour "RemnantResearch_ShipUnlock_Executor"
+		sharedCapitalShipsStartPosition [210, 610]
+		spaceBetweenSharedCapitalShips 10
+			sharedCapitalShipOne "Alignment_Dominator"
+			sharedCapitalShipTwo "Alignment_Lucrehulk"
+			sharedCapitalShipThree "Alignment_ISDII"
+			sharedCapitalShipFour "Alignment_Praetor"
+			sharedCapitalShipFive "Alignment_Secutor"
+			sharedCapitalShipSix "Alignment_Venator_RaceSelect"
+		spaceBetweenFactionTechs 10
+		leftFactionTechsStartPosition [80, 590]
+			leftFactionTechOne "AlignmentResearch_ShipUnlock_Bellator"
+			leftFactionTechTwo "RemnantResearch_ShipUnlock_CommandStation"
+			leftFactionTechThree "AlignmentResearch_Global_CorporateHeadquarters"
+			leftFactionTechFour "AlignmentResearch_Global_DynamicAutomata"
+			leftFactionTechFive "AlignmentResearch_Global_Protectionism"
+			leftFactionTechSix "AlignmentResearch_Global_HostileTakeover"
+		rightFactionTechsStartPosition [ 400, 590]
+			rightFactionTechOne "AlignmentResearch_Culture_ClosedBorders"
+			rightFactionTechTwo "AlignmentResearch_Culture_Integration"
+			rightFactionTechThree "AlignmentResearch_Global_ExtraFighters"
+			rightFactionTechFour "AlignmentResearch_Global_CorporateOutreach"
+			rightFactionTechFive "RemnantResearch_AbilityUnlock_HVGun"
+			rightFactionTechSix "AlignmentResearch_Global_Reach"
+		selectLeftButton
+			area [510, 475, 75 , 75]
+			underlayBrush "AscendancyButtonsFactionSelectSelectPA"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+		selectRightButton
+			area [-5000 , -5000 , 230 , 105]
+			underlayBrush "Null"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+		selectRandomButton
+			area [440, 475, 75 , 75]
+			underlayBrush "AscendancyButtonsFactionSelectRandomPA"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+		previousRaceButton
+			area [370, 475, 75 , 75]
+			underlayBrush "AscendancyButtonsFactionSelectPreviousPA"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]
+		nextRaceButton
+			area [580, 475, 75 , 75]
+			underlayBrush "AscendancyButtonsFactionSelectNextPA"
+			buttonTextFont "ButtonLabel"
+			buttonTextID "NO_TEXT"
+			buttonTextArea [ 0 , 0 , 0 , 0 ]

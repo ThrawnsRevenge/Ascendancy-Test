@@ -1,0 +1,55 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 99
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 4
+instantAction
+	buffInstantActionType "ApplyBuffToLastSpawnerNoFilterNoRange"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	buffType "BuffEscapeSelf"
+instantAction
+	buffInstantActionType "GiveCreditsToPlayer"
+	instantActionTriggerType "AlwaysPerform"
+	credits
+		Level:0 50.000000
+		Level:1 50.000000
+		Level:2 50.000000
+		Level:3 50.000000
+		effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+instantAction
+	buffInstantActionType "RestoreHullPoints"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.500000
+	hull
+		Level:0 250.000000
+		Level:1 250.000000
+		Level:2 250.000000
+		Level:3 250.000000
+instantAction
+	buffInstantActionType "RestoreAntiMatter"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	antiMatter
+		Level:0 12.000000
+		Level:1 12.000000
+		Level:2 12.000000
+		Level:3 12.000000
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "OwnerChanged"

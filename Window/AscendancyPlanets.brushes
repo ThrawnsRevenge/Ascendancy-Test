@@ -1,0 +1,373 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 74
+brush
+  name "AscendancyMainViewPlanetAlertOverlay"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 0 , 280 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetCapitalOverlay"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 406 , 280 , 16 , 65 ]
+brush
+  name "AscendancyEmpireTreePlanetCapitalOverlay"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 406 , 280 , 16 , 16 ]
+brush
+  name "AscendancyMainViewPlanetHolocronOverlay"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 423 , 280 , 16 , 16 ]
+brush
+  name "AscendancyMainViewPlanetFriendlyOverlay"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 476 , 288 , 14 , 32 ]
+brush
+  name "AscendancyMainViewPlanetEnemyOverlay"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 536 , 288 , 14 , 32 ]
+brush
+  name "AscendancyMainViewPlanetModuleOverlay"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 497 , 331 , 32 , 14 ]
+brush
+  name "AscendancyMainViewPlanetUnknown"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView_NoIntelligence"
+  pixelBox [ 800 , 210 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetTerran"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 0 , 0 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetAridOcean"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 200 , 0 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetDesert"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 400 , 0 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetUrban"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 600 , 0 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetGasGiant"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 800 , 0 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetIce"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 0 , 70 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetBlackhole"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 200 , 70 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetMountain"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 400 , 70 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetNebula"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 600 , 70 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetOceanic"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 800 , 70 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetPolluted"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 0 , 140 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetSwamp"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 200 , 140 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetVolcanic"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 400 , 140 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetArboreal"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 600 , 140 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetAsteroid"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 800 , 140 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetBarren"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView"
+  pixelBox [ 0 , 210 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetTerran_NoIntelligence"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView_NoIntelligence"
+  pixelBox [ 0 , 0 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetAridOcean_NoIntelligence"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView_NoIntelligence"
+  pixelBox [ 200 , 0 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetDesert_NoIntelligence"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView_NoIntelligence"
+  pixelBox [ 400 , 0 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetUrban_NoIntelligence"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView_NoIntelligence"
+  pixelBox [ 600 , 0 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetGasGiant_NoIntelligence"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView_NoIntelligence"
+  pixelBox [ 800 , 0 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetIce_NoIntelligence"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView_NoIntelligence"
+  pixelBox [ 0 , 70 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetBlackhole_NoIntelligence"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView_NoIntelligence"
+  pixelBox [ 200 , 70 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetMountain_NoIntelligence"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView_NoIntelligence"
+  pixelBox [ 400 , 70 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetNebula_NoIntelligence"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView_NoIntelligence"
+  pixelBox [ 600 , 70 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetOceanic_NoIntelligence"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView_NoIntelligence"
+  pixelBox [ 800 , 70 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetPolluted_NoIntelligence"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView_NoIntelligence"
+  pixelBox [ 0 , 140 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetSwamp_NoIntelligence"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView_NoIntelligence"
+  pixelBox [ 200 , 140 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetVolcanic_NoIntelligence"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView_NoIntelligence"
+  pixelBox [ 400 , 140 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetArboreal_NoIntelligence"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView_NoIntelligence"
+  pixelBox [ 600 , 140 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetAsteroid_NoIntelligence"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView_NoIntelligence"
+  pixelBox [ 800 , 140 , 200 , 70 ]
+brush
+  name "AscendancyMainViewPlanetBarren_NoIntelligence"
+  content "Simple"
+  fileName "AscendancyPlanetsMainView_NoIntelligence"
+  pixelBox [ 0 , 210 , 200 , 70 ]
+brush
+  name "AscendancyInfoCardPlanetTerran"
+  content "Simple"
+  fileName "AscendancyPlanetsInfoCard"
+  pixelBox [ 0 , 0 , 30 , 30 ]
+brush
+  name "AscendancyInfoCardPlanetAridOcean"
+  content "Simple"
+  fileName "AscendancyPlanetsInfoCard"
+  pixelBox [ 30 , 0 , 30 , 30 ]
+brush
+  name "AscendancyInfoCardPlanetDesert"
+  content "Simple"
+  fileName "AscendancyPlanetsInfoCard"
+  pixelBox [ 60 , 0 , 30 , 30 ]
+brush
+  name "AscendancyInfoCardPlanetUrban"
+  content "Simple"
+  fileName "AscendancyPlanetsInfoCard"
+  pixelBox [ 90 , 0 , 30 , 30 ]
+brush
+  name "AscendancyInfoCardPlanetGasGiant"
+  content "Simple"
+  fileName "AscendancyPlanetsInfoCard"
+  pixelBox [ 0 , 30 , 30 , 30 ]
+brush
+  name "AscendancyInfoCardPlanetIce"
+  content "Simple"
+  fileName "AscendancyPlanetsInfoCard"
+  pixelBox [ 30 , 30 , 30 , 30 ]
+brush
+  name "AscendancyInfoCardPlanetBlackhole"
+  content "Simple"
+  fileName "AscendancyPlanetsInfoCard"
+  pixelBox [ 60 , 30 , 30 , 30 ]
+brush
+  name "AscendancyInfoCardPlanetMountain"
+  content "Simple"
+  fileName "AscendancyPlanetsInfoCard"
+  pixelBox [ 90 , 30 , 30 , 30 ]
+brush
+  name "AscendancyInfoCardPlanetNebula"
+  content "Simple"
+  fileName "AscendancyPlanetsInfoCard"
+  pixelBox [ 0 , 60 , 30 , 30 ]
+brush
+  name "AscendancyInfoCardPlanetOceanic"
+  content "Simple"
+  fileName "AscendancyPlanetsInfoCard"
+  pixelBox [ 30 , 60 , 30 , 30 ]
+brush
+  name "AscendancyInfoCardPlanetPolluted"
+  content "Simple"
+  fileName "AscendancyPlanetsInfoCard"
+  pixelBox [ 60 , 60 , 30 , 30 ]
+brush
+  name "AscendancyInfoCardPlanetSwamp"
+  content "Simple"
+  fileName "AscendancyPlanetsInfoCard"
+  pixelBox [ 90 , 60 , 30 , 30 ]
+brush
+  name "AscendancyInfoCardPlanetVolcanic"
+  content "Simple"
+  fileName "AscendancyPlanetsInfoCard"
+  pixelBox [ 0 , 90 , 30 , 30 ]
+brush
+  name "AscendancyInfoCardPlanetArboreal"
+  content "Simple"
+  fileName "AscendancyPlanetsInfoCard"
+  pixelBox [ 30 , 90 , 30 , 30 ]
+brush
+  name "AscendancyInfoCardPlanetAsteroid"
+  content "Simple"
+  fileName "AscendancyPlanetsInfoCard"
+  pixelBox [ 60 , 90 , 30 , 30 ]
+brush
+  name "AscendancyInfoCardPlanetBarren"
+  content "Simple"
+  fileName "AscendancyPlanetsInfoCard"
+  pixelBox [ 90 , 90 , 30 , 30 ]
+brush
+  name "AscendancyInfoCardPlanetUnknown"
+  content "Simple"
+  fileName "AscendancyPlanetsInfoCard"
+  pixelBox [ 0 , 120 , 30 , 30 ]
+brush
+  name "AscendancyEmpireTreePlanetTerran"
+  content "Simple"
+  fileName "AscendancyPlanetsEmpireTree"
+  pixelBox [ 0 , 0 , 20 , 20 ]
+brush
+  name "AscendancyEmpireTreePlanetAridOcean"
+  content "Simple"
+  fileName "AscendancyPlanetsEmpireTree"
+  pixelBox [ 20 , 0 , 20 , 20 ]
+brush
+  name "AscendancyEmpireTreePlanetDesert"
+  content "Simple"
+  fileName "AscendancyPlanetsEmpireTree"
+  pixelBox [ 40 , 0 , 20 , 20 ]
+brush
+  name "AscendancyEmpireTreePlanetUrban"
+  content "Simple"
+  fileName "AscendancyPlanetsEmpireTree"
+  pixelBox [ 60 , 0 , 20 , 20 ]
+brush
+  name "AscendancyEmpireTreePlanetGasGiant"
+  content "Simple"
+  fileName "AscendancyPlanetsEmpireTree"
+  pixelBox [ 0 , 20 , 20 , 20 ]
+brush
+  name "AscendancyEmpireTreePlanetIce"
+  content "Simple"
+  fileName "AscendancyPlanetsEmpireTree"
+  pixelBox [ 20 , 20 , 20 , 20 ]
+brush
+  name "AscendancyEmpireTreePlanetBlackhole"
+  content "Simple"
+  fileName "AscendancyPlanetsEmpireTree"
+  pixelBox [ 40 , 20 , 20 , 20 ]
+brush
+  name "AscendancyEmpireTreePlanetMountain"
+  content "Simple"
+  fileName "AscendancyPlanetsEmpireTree"
+  pixelBox [ 60 , 20 , 20 , 20 ]
+brush
+  name "AscendancyEmpireTreePlanetNebula"
+  content "Simple"
+  fileName "AscendancyPlanetsEmpireTree"
+  pixelBox [ 0 , 40 , 20 , 20 ]
+brush
+  name "AscendancyEmpireTreePlanetOceanic"
+  content "Simple"
+  fileName "AscendancyPlanetsEmpireTree"
+  pixelBox [ 20 , 40 , 20 , 20 ]
+brush
+  name "AscendancyEmpireTreePlanetPolluted"
+  content "Simple"
+  fileName "AscendancyPlanetsEmpireTree"
+  pixelBox [ 40 , 40 , 20 , 20 ]
+brush
+  name "AscendancyEmpireTreePlanetSwamp"
+  content "Simple"
+  fileName "AscendancyPlanetsEmpireTree"
+  pixelBox [ 60 , 40 , 20 , 20 ]
+brush
+  name "AscendancyEmpireTreePlanetVolcanic"
+  content "Simple"
+  fileName "AscendancyPlanetsEmpireTree"
+  pixelBox [ 0 , 40 , 20 , 20 ]
+brush
+  name "AscendancyEmpireTreePlanetArboreal"
+  content "Simple"
+  fileName "AscendancyPlanetsEmpireTree"
+  pixelBox [ 20 , 60 , 20 , 20 ]
+brush
+  name "AscendancyEmpireTreePlanetAsteroid"
+  content "Simple"
+  fileName "AscendancyPlanetsEmpireTree"
+  pixelBox [ 40 , 60 , 20 , 20 ]
+brush
+  name "AscendancyEmpireTreePlanetBarren"
+  content "Simple"
+  fileName "AscendancyPlanetsEmpireTree"
+  pixelBox [ 60 , 60 , 20 , 20 ]
+brush
+  name "AscendancyEmpireTreePlanetUnknown"
+  content "Simple"
+  fileName "AscendancyPlanetsEmpireTree"
+  pixelBox [ 0 , 80 , 20 , 20 ]

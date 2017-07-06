@@ -1,0 +1,30 @@
+TXT
+backdropDimPercentage 0.9
+backdropBrush "AscendancyBackdropDialogSelect"
+titleOverlayBrush "DialogTitleOverlay"
+size [3000 , 600]
+contentRefArea [1200, 120, 500, 400]
+titleRefArea [1200, 60, 371, 30]
+titleOverlayRefArea [0, 0, 556, 90]
+cancelButton
+	area [1220, 520, 220, 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 5
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainBack"
+	text "IDS_DIALOGWINDOW_CANCELBUTTON"
+acceptButton
+	area [1460, 520,  220, 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 5
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainAccept"
+	text "IDS_DIALOGWINDOW_ACCEPTBUTTON"
+titleTextId "IDSGalaxyRandomizerEntityDialogTitle"
+typeList
+	area [0, 0, 500, 400]
+	itemGap 3

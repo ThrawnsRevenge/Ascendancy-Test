@@ -1,0 +1,151 @@
+TXT
+animation-BottomWindowCoinDrop
+	numFrames 15
+	textureName "Coindrop.tga"
+	startTopLeft [0,0]
+	width 21
+	height 21
+	numPerRow 3
+	horizontalStride 21
+	verticalStride 24
+	framesPerSecond 15
+animation-ResearchButtonOverlay
+	numFrames 16
+	textureName "Animation_ResearchGlow.tga"
+	startTopLeft [1,1]
+	width 50
+	height 30
+	numPerRow 4
+	horizontalStride 51
+	verticalStride 31
+	framesPerSecond 10
+animation-OpenNPCWindowButtonOverlay
+	numFrames 16
+	textureName "Animation_NPCGlow.tga"
+	startTopLeft [1,1]
+	width 50
+	height 30
+	numPerRow 4
+	horizontalStride 51
+	verticalStride 31
+	framesPerSecond 10
+animation-OpenPlayersWindowButtonOverlay
+	numFrames 16
+	textureName "Animation_NPCGlow.tga"
+	startTopLeft [1,1]
+	width 50
+	height 30
+	numPerRow 4
+	horizontalStride 51
+	verticalStride 31
+	framesPerSecond 10
+animation-ResearchSubjectButtonTopOfQueueOverlay
+	numFrames 16
+	textureName "Animation_ResearchTopicGlow.tga"
+	startTopLeft [1,1]
+	width 55
+	height 45
+	numPerRow 4
+	horizontalStride 56
+	verticalStride 46
+	framesPerSecond 10
+animation-ResearchSubjectButtonRequiredAsPrerequisiteOverlay
+	numFrames 12
+	textureName "Animation_PreRec.tga"
+	startTopLeft [3,3]
+	width 74
+	height 62
+	numPerRow 3
+	horizontalStride 77
+	verticalStride 63
+	framesPerSecond 10
+animation-AutoCastEnabledOverlay
+	numFrames 16
+	textureName "Animation_AutoCast.tga"
+	startTopLeft [1,1]
+	width 52
+	height 37
+	numPerRow 4
+	horizontalStride 53
+	verticalStride 38
+	framesPerSecond 10
+animation-ActionInProgressOverlay
+	numFrames 16
+	textureName "Animation_ActionInProgress.tga"
+	startTopLeft [1,1]
+	width 52
+	height 37
+	numPerRow 4
+	horizontalStride 53
+	verticalStride 38
+	framesPerSecond 10
+animation-PirateRaidWarning
+	numFrames 12
+	textureName "Animation_Pirate.tga"
+	startTopLeft [0,0]
+	width 63
+	height 73
+	numPerRow 2
+	horizontalStride 65
+	verticalStride 76
+	framesPerSecond 40
+animation-TabWindowActiveButtonIndicator
+	numFrames 9
+	textureName "Animation_RedLight.tga"
+	startTopLeft [0,0]
+	width 72
+	height 81
+	numPerRow 3
+	horizontalStride 75
+	verticalStride 84
+	framesPerSecond 10
+animation-PirateTabButtonAttentionIndicator
+	numFrames 18
+	textureName "Animation_OrangeLight.tga"
+	startTopLeft [0,0]
+	width 72
+	height 81
+	numPerRow 3
+	horizontalStride 75
+	verticalStride 84
+	framesPerSecond 16
+animation-PlayerTabButtonAttentionIndicator
+	numFrames 16
+	textureName "AscendancyButtonAttentionAnimation.tga"
+	startTopLeft [0,0]
+	width 10
+	height 50
+	numPerRow 4
+	horizontalStride 10
+	verticalStride 50
+	framesPerSecond 10
+animation-PlayerSetupReadyToStartTrue
+	numFrames 1
+	textureName "AscendancyPlayerReadyAnimation"
+	startTopLeft [ 0 , 520]
+	width 40
+	height 40
+	numPerRow 1
+	horizontalStride 0
+	verticalStride 40
+	framesPerSecond 3
+animation-PlayerSetupReadyToStartFalse
+	numFrames 13
+	textureName "AscendancyPlayerReadyAnimation"
+	startTopLeft [ 0 , 0 ]
+	width 40
+	height 40
+	numPerRow 1
+	horizontalStride 0
+	verticalStride 40
+	framesPerSecond 15
+animation-OpenRelationshipWindowButtonOverlay
+	numFrames 16
+	textureName "Animation_NPCGlow.tga"
+	startTopLeft [1,1]
+	width 50
+	height 30
+	numPerRow 4
+	horizontalStride 51
+	verticalStride 31
+	framesPerSecond 10

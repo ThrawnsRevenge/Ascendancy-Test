@@ -1,0 +1,177 @@
+﻿TXT
+entityType "PlanetModuleHangarDefense"
+minZoomDistanceMult 3.500000
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 24.000000
+AntiMatterRestoreRate 0.200000
+numRandomDebrisLarge 3
+numRandomDebrisSmall 19
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_GOLANIII"
+smallHudIcon "EMPIREICON_GOLAN_III_PLATFORM"
+infoCardIcon "EMPIREICON_GOLAN_III_PLATFORM"
+planetUpgradeSlotType "Tactical"
+planetUpgradeSlotCount 4.000000
+basePrice
+	credits 700.000000
+	metal 60.000000
+	crystal 60.000000
+NameStringID "IDS_PLANETMODULE_GOLANIII_NAME"
+DescriptionStringID "IDS_PLANETMODULE_GOLANIII_DESCRIPTION"
+planetModuleRoleType "WEAPONDEFENSE"
+statCountType "ModuleHangarDefense"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RemnantResearch_ShipUnlock_GolanIII"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MaxHullPoints 7810.000000
+HullPointRestoreRate 2.000000
+BaseArmorPoints 12.000000
+MaxShieldPoints 7810.000000
+ShieldPointRestoreRate 30.000000
+maxShieldMitigation 0.500000
+ExperiencePointsForDestroying 50.000000
+resourceExtractionType "Invalid"
+cultureSpreadRate 0.000000
+isAffectedBySimilarModuleCostResearch FALSE
+placementRadius 360.000000
+nearPlacementDistOffset 0.000000
+farPlacementDistOffset 0.000000
+spawnCount 1
+swapMineType ""
+angularSpeed 0.000000
+rotateSoundName ""
+rotateFacingType "AwayFromOrbitBody"
+rotateConstantly FALSE
+ShieldMeshName "UB_GolanIII"
+renderShield TRUE
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "PLANETMODULE_TECHORBITALGAUSSDEFENSE_ONSELECTION_0"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "UB_GolanIII"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExplosionName "PlanetModuleSmall"
+mainViewIcon "MAINVIEWICON_GOLAN_III_PLATFORM"
+picture "HUDICON_GOLANIII"
+minShadow 0.000000
+maxShadow 0.600000
+formationRank 3
+baseBuildTime 65.000000
+buildEffectName ""
+squadTypeEntityDef:0 "Remnant_TIEFighter_Squad"
+squadAntiMatterCost:0 12.000000
+squadTypeEntityDef:1 "Remnant_TIEBomber_Squad"
+squadAntiMatterCost:1 12.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumWeapons 2
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "LASERTECH"
+	DamagePerBank:FRONT 220.000000
+	DamagePerBank:BACK 220.000000
+	DamagePerBank:LEFT 220.000000
+	DamagePerBank:RIGHT 220.000000
+	Range 12000.000000
+	PreBuffCooldownTime 4.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.900000
+	TravelSpeed 2000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 4
+		burstDelay 0.200000
+		fireDelay 0.000000
+		muzzleEffectName "MuzzleGreen_Single_Large"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_CAPITAL_TURBOLASER_MUZZLE"
+			sound "WEAPON_CAPITAL_TURBOLASER_MUZZLE_ALT1"
+			sound "WEAPON_CAPITAL_TURBOLASER_MUZZLE_ALT2"
+		hitEffectName "TurbolaserImpact"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "TurbolaserGreen_Single"
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "ANTIVERYHEAVY"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "PHASEMISSILE"
+	DamagePerBank:FRONT 120.000000
+	DamagePerBank:BACK 120.000000
+	DamagePerBank:LEFT 120.000000
+	DamagePerBank:RIGHT 120.000000
+	Range 12000.000000
+	PreBuffCooldownTime 13.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.500000
+	TravelSpeed 1000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 2
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName ""
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_PROTON_MUZZLE"
+		hitEffectName "Explosion1"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILELIGHT_HITGENERIC"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILELIGHT_HITGENERIC"
+		missileTravelEffectName "Proton_Torp"
+		missileStartTurningDistance 10.000000
+		missileSlowTurnRate 3.141593
+		missileMaxSlowTurnTime 1.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 1
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures FALSE
+baseCommandPoints 1
+defaultAutoAttackRange "None"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE

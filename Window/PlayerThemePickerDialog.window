@@ -1,0 +1,35 @@
+TXT
+backdropDimPercentage 0.9
+backdropBrush "AscendancyBackdropDialogSelect"
+titleOverlayBrush "PlayerThemePickerScreenTitleOverlay"
+size [3000 , 600]
+contentRefArea [1220, 200, 371, 207]
+titleRefArea [1200, 60, 371, 30]
+titleOverlayRefArea [0, 0, 693, 90]
+cancelButton
+	area [1230, 320, 220, 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 5
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainBack"
+	text "IDS_DIALOGWINDOW_CANCELBUTTON"
+acceptButton
+	area [1470, 320,  220, 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 5
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainAccept"
+	text "IDS_DIALOGWINDOW_ACCEPTBUTTON"
+titleTextId "IDS_DIALOGWINDOW_TITLETEXT_PLAYERTHEMEPICKERWINDOW"
+themeButtonSize [50 , 50]
+themeButtonStride [50, 50]
+themeButtonTopLeftOffset [-5000, -5000]
+themeButtonMaxRowCount 10
+colorButtonSize [50 , 50]
+colorButtonStride [50, 50]
+colorButtonTopLeftOffset [ 0 , 50]
+colorButtonMaxRowCount 10

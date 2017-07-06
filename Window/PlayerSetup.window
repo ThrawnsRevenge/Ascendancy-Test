@@ -1,0 +1,99 @@
+TXT
+rowSize [1000, 46]
+startTopLeft [0, 0]
+nameLabelDef
+	area [100, 0, 180, 45]
+	fontId "ButtonLabel"
+	activeHumanColor ffffffff
+	humanColor ffffffff
+	nonHumanColor ffffffff
+	aiNameFormat "IDSPlayerSetupWindowAIPlayerNameFormat"
+themeButtonDef
+	area [47 , 0 , 45 , 45]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "Null"
+	overlay "Null"
+raceButtonDef
+	area [350, 0, 45 , 45]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 5000
+	textOffsetFromLeft -4990
+	underlay "Null"
+	overlay "Null"
+	randomRaceNameStringId "IDSPlayerSetupWindowRandomRaceName"
+	randomRacePictureIcon "AscendancyIconsRandomRace"
+statusButtonDef
+	area [0, 0, 45 , 45]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "Null"
+	overlay "Null"
+	slotStatusIcon-Available "AscendancyIconsMainUser"
+	slotStatusIcon-AvailableForFriend "AscendancyIconsMainUser"
+	slotStatusIcon-Human "AscendancyIconsMainUser"
+	slotStatusIcon-AI "AscendancyIconsMainComputer"
+	slotStatusIcon-Closed "AscendancyIconsMainCancel"
+readyToStartButtonDef
+	area [500, 0 , 45 , 45]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "Null"
+	overlay "Null"
+	readyToStartBrushAnimationTrue "PlayerSetupReadyToStartTrue"
+	readyToStartBrushAnimationFalse "PlayerSetupReadyToStartFalse"
+teamButtonDef
+	area [400, 0, 45 , 45]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 5010
+	textOffsetFromLeft -5000
+	underlay "Null"
+	overlay "Null"
+	teamTextFormatId "IDSPlayerSetupWindowTeamButtonFormat"
+	teamIcon-0 "AscendancyIconsNumber1"
+	teamIcon-1 "AscendancyIconsNumber2"
+	teamIcon-2 "AscendancyIconsNumber3"
+	teamIcon-3 "AscendancyIconsNumber4"
+	teamIcon-4 "AscendancyIconsNumber5"
+	teamIcon-5 "AscendancyIconsNumber6"
+	teamIcon-6 "AscendancyIconsNumber7"
+	teamIcon-7 "AscendancyIconsNumber8"
+	teamIcon-8 "AscendancyIconsNumber9"
+	teamIcon-9 "AscendancyIconsNumber10"
+aiDifficultyButtonDef
+	area [440, 0, 45 , 45]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 2
+	textOffsetFromLeft 0
+	underlay "Null"
+	overlay "Null"
+	aiDifficultyIcon-Easy "AscendancyIconsMainRecruit"
+	aiDifficultyIcon-Medium "AscendancyIconsMainLieutenant"
+	aiDifficultyIcon-Hard "AscendancyIconsMainCaptain"
+	aiDifficultyIcon-Unfair "AscendancyIconsMainAdmiral"
+	aiDifficultyIcon-Nightmare "AscendancyIconsMainGrandAdmiral"
+	aiDifficultyIcon-Impossible "AscendancyIconsMainEmperor"
+aiStyleButtonDef
+	area [500, 0 , 45 , 45]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 2
+	textOffsetFromLeft 0
+	underlay "Null"
+	overlay "Null"
+	aiStyleIcon-Random "AscendancyIconsMainRandom"
+	aiStyleIcon-Aggressive "AscendancyIconsMainSwords"
+	aiStyleIcon-Defensive "AscendancyIconsMainShield"
+	aiStyleIcon-Research "AscendancyIconsMainResearch"
+	aiStyleIcon-Economic "AscendancyIconsMainCredits"
+icoPlayerInfoButtonDef
+	area [440, 0, 45 , 45]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "Null"
+	overlay "Null"
+	icon "AscendancyIconsMainUser"
+useRaceSelectDialog TRUE

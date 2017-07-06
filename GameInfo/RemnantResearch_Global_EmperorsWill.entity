@@ -1,0 +1,46 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCH_CULTURESUPPRESSION"
+smallHudIcon "HUDICON_RESEARCH_CULTURESUPPRESSION"
+infoCardIcon ""
+NameStringID "IDS_REMNANTRESEARCH_EMPERORSWILL_NAME"
+DescriptionStringID "IDS_REMNANTRESEARCH_EMPERORSWILL_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 4 , 8 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RemnantResearch_Global_ReplaceableParts"
+		Level 1
+	RequiredFactionNameID "IDS_CHANGEFACTION_PALPATINE"
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 60.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 900.000000
+	metal 10.000000
+	crystal 75.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 4
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 2
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 2
+researchModifier
+	modifierType "CultureSpreadRateAdjustment"
+	baseValue 0.000000
+	perLevelValue -0.250000
+researchModifier
+	modifierType "CultureResistPercent"
+	baseValue 0.000000
+	perLevelValue 0.400000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

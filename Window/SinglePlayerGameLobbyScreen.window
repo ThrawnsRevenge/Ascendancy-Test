@@ -1,0 +1,42 @@
+TXT
+backdrop "AscendancyBackdropMenuSinglePlayerLobby"
+backButton
+	area [40, 680, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 7
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainBack"
+	text "IDSSinglePlayerGameLobbyScreenBackButton"
+startGameButton
+	area [730, 680, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 7
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainForward"
+	text "IDSSinglePlayerGameLobbyScreenStartGameButton"
+openGameOptionsDialogButton
+	area [270, 680, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 5
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainGamepad"
+	text "IDSGalaxySetupWindowOpenGameOptionsDialog"
+openVictoryOptionsDialogButton
+	area [500, 680, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 7
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainFlag"
+	text "IDSGalaxySetupWindowOpenVictoryOptionsDialog"
+playerSetupWindow
+	area [30, 100, 700, 500]
+galaxyInfoWindow
+	area [600, 70, 400, 400]

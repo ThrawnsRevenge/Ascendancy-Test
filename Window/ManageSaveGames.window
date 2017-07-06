@@ -1,0 +1,31 @@
+TXT
+tabButtonIcon "AscendancyIconsMainGrid"
+tabButtonText "IDSManageSaveGamesTabButton"
+fileNameListLabel
+	area [0, 90, 220, 30]
+	fontId "ButtonLabel"
+fileNameList
+	area [0, 120, 220, 510]
+	itemGap 3
+selectGameSaveTypeWindow
+	area [0, 635, 220, 46]
+eraseButton
+	area [0, 702, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 7
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainDelete"
+	text "IDSManageSaveGamesEraseButton"
+eraseAllButton
+	area [240, 702, 220, 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 7
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainDelete"
+	text "IDSManageSaveGamesEraseAllButton"
+galaxyInfoWindow
+	area [285, 120, 455, 254]

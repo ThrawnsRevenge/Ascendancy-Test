@@ -1,0 +1,216 @@
+TXT
+tabButtonIcon "AscendancyIconsMainPalette"
+tabButtonText "IDSOptionsScreenEffectOptionsTabButton"
+resetButton
+	area [0, 650, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 9
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainReset"
+	text "IDSOptionsScreenEffectOptionsReset"
+applyChangesButton
+	area [470, 650, 220, 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 5
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainAccept"
+	text "IDSOptionsScreenVideoOptionsApplyChanges"
+showAsteroidsCheckBox
+	area [0, 100, 220, 30]
+	text "IDSOptionsScreenEffectOptionsShowAsteroids"
+showDustCloudsCheckBox
+	area [0, 136, 220, 30]
+	text "IDSOptionsScreenEffectOptionsShowDustClouds"
+showElevatorsCheckBox
+	area [0, 172, 220, 30]
+	text "IDSOptionsScreenEffectOptionsShowElevators"
+showPlanetRingsCheckBox
+	area [0, 208, 220, 30]
+	text "IDSOptionsScreenEffectOptionsShowPlanetRings"
+showDebrisCheckBox
+	area [0, 352, 220, 30]
+	text "IDSOptionsScreenEffectOptionsShowDebris"
+useColoredSkyboxesCheckBox
+	area [0, 244, 220, 30]
+	text "IDSOptionsScreenEffectOptionsUseColoredSkyboxes"
+useDeepSpaceSkyboxesCheckBox
+	area [0, 280, 220, 30]
+	text "IDSOptionsScreenEffectOptionsUseDeepSpaceSkyboxes"
+shakeCameraCheckBox
+	area [0, 316, 220, 30]
+	text "IDSOptionsScreenEffectOptionsShakeCamera"
+isPostProcessSceneEnabledCheckBox
+	area [234, 100, 220, 30]
+	text "IDSOptionsScreenEffectOptionsIsPostProcessSceneEnabled"
+isShipBrighteningEnabledCheckBox
+	area [234, 136, 220, 30]
+	text "IDSOptionsScreenEffectOptionsIsShipBrighteningEnabled"
+showMeshTeamColorCheckBox
+	area [234, 172, 220, 30]
+	text "IDSOptionsScreenEffectOptionsShowMeshTeamColor"
+exhaustTrailDetailScrollBar
+	area [234, 352, 350, 30]
+	text "IDSOptionsScreenEffectOptionsExhaustTrailDetail"
+planetColorTextureQualityButton
+	area [0, 412, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 4
+	textOffsetFromLeft 85
+	underlay "AscendancyButtonsScreenGauge"
+	overlay "Null"
+	textureQualityInfo-Low
+		text "IDSOptionsScreenTextureQualityLowPlanetColor"
+		icon "AscendancyIconsGaugeDetailLow"
+	textureQualityInfo-Medium
+		text "IDSOptionsScreenTextureQualityMediumPlanetColor"
+		icon "AscendancyIconsGaugeDetailMedium"
+	textureQualityInfo-High
+		text "IDSOptionsScreenTextureQualityHighPlanetColor"
+		icon "AscendancyIconsGaugeDetailHigh"
+	textureQualityInfo-Highest
+		text "IDSOptionsScreenTextureQualityHighestPlanetColor"
+		icon "AscendancyIconsGaugeDetailHighest"
+	textureQualityInfo-Extreme
+		text "IDSOptionsScreenTextureQualityExtremePlanetColor"
+		icon "AscendancyIconsGaugeDetailUltra"
+shipColorTextureQualityButton
+	area [234, 412, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 4
+	textOffsetFromLeft 85
+	underlay "AscendancyButtonsScreenGauge"
+	overlay "Null"
+	textureQualityInfo-Low
+		text "IDSOptionsScreenTextureQualityLowShipColor"
+		icon "AscendancyIconsGaugeDetailLow"
+	textureQualityInfo-Medium
+		text "IDSOptionsScreenTextureQualityMediumShipColor"
+		icon "AscendancyIconsGaugeDetailMedium"
+	textureQualityInfo-High
+		text "IDSOptionsScreenTextureQualityHighShipColor"
+		icon "AscendancyIconsGaugeDetailHigh"
+	textureQualityInfo-Highest
+		text "IDSOptionsScreenTextureQualityHighestShipColor"
+		icon "AscendancyIconsGaugeDetailHighest"
+	textureQualityInfo-Extreme
+		text "IDSOptionsScreenTextureQualityExtremeShipColor"
+		icon "AscendancyIconsGaugeDetailUltra"
+shipDataTextureQualityButton
+	area [234, 492, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 4
+	textOffsetFromLeft 85
+	underlay "AscendancyButtonsScreenGauge"
+	overlay "Null"
+	textureQualityInfo-Low
+		text "IDSOptionsScreenTextureQualityLowShipData"
+		icon "AscendancyIconsGaugeDetailLow"
+	textureQualityInfo-Medium
+		text "IDSOptionsScreenTextureQualityMediumShipData"
+		icon "AscendancyIconsGaugeDetailMedium"
+	textureQualityInfo-High
+		text "IDSOptionsScreenTextureQualityHighShipData"
+		icon "AscendancyIconsGaugeDetailHigh"
+	textureQualityInfo-Highest
+		text "IDSOptionsScreenTextureQualityHighestShipData"
+		icon "AscendancyIconsGaugeDetailHighest"
+	textureQualityInfo-Extreme
+		text "IDSOptionsScreenTextureQualityExtremeShipData"
+		icon "AscendancyIconsGaugeDetailUltra"
+shipBumpTextureQualityButton
+	area [234, 572, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 4
+	textOffsetFromLeft 85
+	underlay "AscendancyButtonsScreenGauge"
+	overlay "Null"
+	textureQualityInfo-Low
+		text "IDSOptionsScreenTextureQualityLowShipBump"
+		icon "AscendancyIconsGaugeDetailLow"
+	textureQualityInfo-Medium
+		text "IDSOptionsScreenTextureQualityMediumShipBump"
+		icon "AscendancyIconsGaugeDetailMedium"
+	textureQualityInfo-High
+		text "IDSOptionsScreenTextureQualityHighShipBump"
+		icon "AscendancyIconsGaugeDetailHigh"
+	textureQualityInfo-Highest
+		text "IDSOptionsScreenTextureQualityHighestShipBump"
+		icon "AscendancyIconsGaugeDetailHighest"
+	textureQualityInfo-Extreme
+		text "IDSOptionsScreenTextureQualityExtremeShipBump"
+		icon "AscendancyIconsGaugeDetailUltra"
+moduleColorTextureQualityButton
+	area [470, 412, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 4
+	textOffsetFromLeft 85
+	underlay "AscendancyButtonsScreenGauge"
+	overlay "Null"
+	textureQualityInfo-Low
+		text "IDSOptionsScreenTextureQualityLowModuleColor"
+		icon "AscendancyIconsGaugeDetailLow"
+	textureQualityInfo-Medium
+		text "IDSOptionsScreenTextureQualityMediumModuleColor"
+		icon "AscendancyIconsGaugeDetailMedium"
+	textureQualityInfo-High
+		text "IDSOptionsScreenTextureQualityHighModuleColor"
+		icon "AscendancyIconsGaugeDetailHigh"
+	textureQualityInfo-Highest
+		text "IDSOptionsScreenTextureQualityHighestModuleColor"
+		icon "AscendancyIconsGaugeDetailHighest"
+	textureQualityInfo-Extreme
+		text "IDSOptionsScreenTextureQualityExtremeModuleColor"
+		icon "AscendancyIconsGaugeDetailUltra"
+moduleDataTextureQualityButton
+	area [470, 492, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 4
+	textOffsetFromLeft 85
+	underlay "AscendancyButtonsScreenGauge"
+	overlay "Null"
+	textureQualityInfo-Low
+		text "IDSOptionsScreenTextureQualityLowModuleData"
+		icon "AscendancyIconsGaugeDetailLow"
+	textureQualityInfo-Medium
+		text "IDSOptionsScreenTextureQualityMediumModuleData"
+		icon "AscendancyIconsGaugeDetailMedium"
+	textureQualityInfo-High
+		text "IDSOptionsScreenTextureQualityHighModuleData"
+		icon "AscendancyIconsGaugeDetailHigh"
+	textureQualityInfo-Highest
+		text "IDSOptionsScreenTextureQualityHighestModuleData"
+		icon "AscendancyIconsGaugeDetailHighest"
+		textureQualityInfo-Extreme
+		text "IDSOptionsScreenTextureQualityExtremeModuleData"
+		icon "AscendancyIconsGaugeDetailUltra"
+moduleBumpTextureQualityButton
+	area [470, 572, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 4
+	textOffsetFromLeft 85
+	underlay "AscendancyButtonsScreenGauge"
+	overlay "Null"
+	textureQualityInfo-Low
+		text "IDSOptionsScreenTextureQualityLowModuleBump"
+		icon "AscendancyIconsGaugeDetailLow"
+	textureQualityInfo-Medium
+		text "IDSOptionsScreenTextureQualityMediumModuleBump"
+		icon "AscendancyIconsGaugeDetailMedium"
+	textureQualityInfo-High
+		text "IDSOptionsScreenTextureQualityHighModuleBump"
+		icon "AscendancyIconsGaugeDetailHigh"
+	textureQualityInfo-Highest
+		text "IDSOptionsScreenTextureQualityHighestModuleBump"
+		icon "AscendancyIconsGaugeDetailHighest"
+	textureQualityInfo-Extreme
+		text "IDSOptionsScreenTextureQualityExtremeModuleBump"
+		icon "AscendancyIconsGaugeDetailUltra"
+shadowQualityListLabel
+	area [470, 100, 220, 30]
+	fontId "Label"
+	text "IDSOptionsScreenEffectOptionsShadowQuality"
+shadowQualityListArea [470, 130, 220, 186]

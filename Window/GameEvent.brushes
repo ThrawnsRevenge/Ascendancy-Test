@@ -1,0 +1,298 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 59
+brush
+	name "GameEventButtonFlagshipVictory"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 1 , 179 , 24 ]
+brush
+	name "GameEventButtonCapitalVictory"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 26 , 179 , 24 ]
+brush
+	name "GameEventButtonDiplomacyVictory"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 51 , 179 , 24 ]
+brush
+	name "GameEventButtonResearchVictory"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 76 , 179 , 24 ]
+brush
+	name "GameEventButtonOccupationVictory"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 101 , 179 , 24 ]
+brush
+	name "GameEventCategoryInfoCardIconPing"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 126 , 179 , 24 ]
+brush
+	name "GameEventCategoryInfoCardIconProduction"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 151 , 179 , 24 ]
+brush
+	name "GameEventCategoryInfoCardIconAlliance"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 176 , 179 , 24 ]
+brush
+	name "GameEventCategoryInfoCardIconThreat"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 201 , 179 , 24 ]
+brush
+	name "GameEventButtonEmptyCategoryPing"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 126 , 179 , 24 ]
+brush
+	name "GameEventButtonEmptyCategoryAlliance"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 176 , 179 , 24 ]
+brush
+	name "GameEventButtonEmptyCategoryProduction"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 151 , 179 , 24 ]
+brush
+	name "GameEventButtonEmptyCategoryThreat"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 201 , 179 , 24 ]
+brush
+	name "GameEventButtonAllianceEmptyFrame"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 176 , 179 , 24 ]
+brush
+	name "GameEventButtonAllyCapitalShipLost"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 226 , 179 , 24 ]
+brush
+	name "GameEventButtonAllyPlanetLost"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 251 , 179 , 24 ]
+brush
+	name "GameEventButtonCannonShellDetected"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 276 , 179 , 24 ]
+brush
+	name "GameEventButtonCannonUnderConstruction"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 301 , 179 , 24 ]
+brush
+	name "GameEventButtonAllyPlanetUnderAttack"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 326 , 179 , 24 ]
+brush
+	name "GameEventButtonAllyUnitUnderAttack"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 351 , 179 , 24 ]
+brush
+	name "GameEventButtonBountyAllDepleted"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 376 , 179 , 24 ]
+brush
+	name "GameEventButtonBountyIncreasedOther"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 401 , 179 , 24 ]
+brush
+	name "GameEventButtonBountyIncreasedPlayer"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 426 , 179 , 24 ]
+brush
+	name "GameEventButtonPirateFleetArrived"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 451 , 179 , 24 ]
+brush
+	name "GameEventButtonPirateRaidImminent"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 476 , 179 , 24 ]
+brush
+	name "GameEventButtonPirateRaidLaunched"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 501 , 179 , 24 ]
+brush
+	name "GameEventButtonHostileFleetArrived"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 526 , 179 , 24 ]
+brush
+	name "GameEventButtonHostileFleetEnRoute"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 551 , 179 , 24 ]
+brush
+	name "GameEventButtonPlayerFleetArrivedToFleetBeacon"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 576 , 179 , 24 ]
+brush
+	name "GameEventButtonPing"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 601 , 179 , 24 ]
+brush
+	name "GameEventButtonPlanetUpgradeComplete"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 626 , 179 , 24 ]
+brush
+	name "GameEventButtonPlayerCapitalShipCreated"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 651 , 179 , 24 ]
+brush
+	name "GameEventButtonPlayerTitanCreated"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 676 , 179 , 24 ]
+brush
+	name "GameEventButtonPlayerCapitalShipLost"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 701 , 179 , 24 ]
+brush
+	name "GameEventButtonPlayerStarbaseLost"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 726 , 179 , 24 ]
+brush
+	name "GameEventButtonPlayerFrigateCreated"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 751 , 179 , 24 ]
+brush
+	name "GameEventButtonPlayerPlanetColonized"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 776 , 179 , 24 ]
+brush
+	name "GameEventButtonPlayerPlanetLost"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 801 , 179 , 24 ]
+brush
+	name "GameEventButtonPlayerPlanetLostToCulture"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 826 , 179 , 24 ]
+brush
+	name "GameEventButtonPlayerPlanetSoonLostToCulture"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 851 , 179 , 24 ]
+brush
+	name "GameEventButtonPlayerPlanetUnderAttack"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 876 , 179 , 24 ]
+brush
+	name "GameEventButtonPlayerReceivedResourcesFromAlly"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 901 , 179 , 24 ]
+brush
+	name "GameEventButtonPlayerUnitUnderAttack"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 926 , 179 , 24 ]
+brush
+	name "GameEventButtonPlayerCapitalShipShieldsDown"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 951 , 179 , 24 ]
+brush
+	name "GameEventButtonPlayerCapitalShipHullSeverelyDamaged"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 976 , 179 , 24 ]
+brush
+	name "GameEventButtonAchievementCompleted"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 1001 , 179 , 24 ]
+brush
+	name "GameEventButtonResearchComplete"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 1026 , 179 , 24 ]
+brush
+	name "GameEventButtonNewPlanetDiscovered"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 1051 , 179 , 24 ]
+brush
+	name "GameEventButtonPlayerCapitalPlanetChanged"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 1076 , 179 , 24 ]
+brush
+	name "GameEventButtonCapitalShipLevelUp"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 1101 , 179 , 24 ]
+brush
+	name "GameEventButtonGameStart"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 1126 , 179 , 24 ]
+brush
+	name "GameEventButtonArtifactDiscovered"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 1151 , 179 , 24 ]
+brush
+	name "GameEventButtonArtifactDiscoveredOther"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 1176 , 179 , 24 ]
+brush
+	name "GameEventButtonBonusDiscovered"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 1201 , 179 , 24 ]
+brush
+	name "GameEventButtonScuttleShipStarted"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 1226 , 179 , 24 ]
+brush
+	name "GameEventButtonScuttlePlanetStarted"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 1251 , 179 , 24 ]
+brush
+	name "GameEventButtonMarketBoom"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 1276 , 179 , 24 ]
+brush
+	name "GameEventButtonMarketCrash"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 1301 , 179 , 24 ]
+brush
+	name "GameEventButtonPlayerCultureFlippedEnemyPlanet"
+	content "Simple"
+	fileName "Buttons_Ascendancy_Events"
+	pixelBox [ 1 , 1326 , 179 , 24 ]

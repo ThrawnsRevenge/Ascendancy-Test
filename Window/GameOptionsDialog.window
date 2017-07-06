@@ -1,0 +1,213 @@
+TXT
+backdropDimPercentage 0.9
+backdropBrush "AscendancyBackdropDialogGameOptions"
+titleOverlayBrush "GameOptionsScreenTitleOverlay"
+size [3000 , 600]
+contentRefArea [1000, 100, 508, 335]
+titleRefArea [-5000, -5000, 508, 30]
+titleOverlayRefArea [0, 0, 693, 90]
+acceptButton
+	area [1650, 500, 220, 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 5
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	icon "AscendancyIconsMainAccept"
+	text "IDS_DIALOGWINDOW_ACCEPTBUTTON"
+titleStringId "IDSGameOptionsDialogTitle"
+areTeamsLockedButton
+	area [150, 95, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 5
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	true
+		icon "AscendancyIconsGameOptionsToggleLockedTeamsOn"
+		text "IDSGameOptionsAreTeamsLockedTrue"
+	false
+		icon "AscendancyIconsGameOptionsToggleLockedTeamsOff"
+		text "IDSGameOptionsAreTeamsLockedFalse"
+arePiratesActiveButton
+	area [-5000, -5000, 220 , 46]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 40
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	true
+		icon "AscendancyIconsToggleOn"
+		text "IDSGameOptionsArePiratesActiveTrue"
+	false
+		icon "AscendancyIconsToggleOff"
+		text "IDSGameOptionsArePiratesActiveFalse"
+areOutlawSectorsActiveButton
+	area [150, 245, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 5
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	true
+		icon "AscendancyIconsGameOptionsToggleOutlawsOn"
+		text "IDSGameOptionsAreOutlawSectorsActiveTrue"
+	false
+		icon "AscendancyIconsGameOptionsToggleOutlawsOff"
+		text "IDSGameOptionsAreOutlawSectorsActiveFalse"
+useQuickStartButton
+	area [150, 20, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 5
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	true
+		icon "AscendancyIconsGameOptionsToggleHeroesOn"
+		text "IDSGameOptionsUseQuickStartTrue"
+	false
+		icon "AscendancyIconsGameOptionsToggleHeroesOff"
+		text "IDSGameOptionsUseQuickStartFalse"
+randomEventsEnabledButton
+	area [150, 170, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 5
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"
+	true
+		icon "AscendancyIconsGameOptionsToggleRandomEventsOn"
+		text "IDSGameOptionsAreRandomEventsEnabledTrue"
+	false
+		icon "AscendancyIconsGameOptionsToggleRandomEventsOff"
+		text "IDSGameOptionsAreRandomEventsEnabledFalse"
+buildSpeedButton
+	area [650, 20, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 4
+	textOffsetFromLeft 85
+	underlay "AscendancyButtonsScreenGauge"
+	overlay "Null"
+	Slow
+		icon "AscendancyIconsGaugeLevel1"
+		text "IDSGameOptionsBuildSpeedSlow"
+	Normal
+		icon "AscendancyIconsGaugeLevel2"
+		text "IDSGameOptionsBuildSpeedNormal"
+	Fast
+		icon "AscendancyIconsGaugeLevel3"
+		text "IDSGameOptionsBuildSpeedFast"
+	Faster
+		icon "AscendancyIconsGaugeLevel4"
+		text "IDSGameOptionsBuildSpeedFaster"
+cultureSpeedButton
+	area [400, 170, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 4
+	textOffsetFromLeft 85
+	underlay "AscendancyButtonsScreenGauge"
+	overlay "Null"
+	Slow
+		icon "AscendancyIconsGaugeLevel1"
+		text "IDSGameOptionsCultureSpeedSlow"
+	Normal
+		icon "AscendancyIconsGaugeLevel2"
+		text "IDSGameOptionsCultureSpeedNormal"
+	Fast
+		icon "AscendancyIconsGaugeLevel3"
+		text "IDSGameOptionsCultureSpeedFast"
+	Faster
+		icon "AscendancyIconsGaugeLevel4"
+		text "IDSGameOptionsCultureSpeedFaster"
+researchSpeedButton
+	area [650, 95, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 4
+	textOffsetFromLeft 85
+	underlay "AscendancyButtonsScreenGauge"
+	overlay "Null"
+	Slow
+		icon "AscendancyIconsGaugeLevel1"
+		text "IDSGameOptionsResearchSpeedSlow"
+	Normal
+		icon "AscendancyIconsGaugeLevel2"
+		text "IDSGameOptionsResearchSpeedNormal"
+	Fast
+		icon "AscendancyIconsGaugeLevel3"
+		text "IDSGameOptionsResearchSpeedFast"
+	Faster
+		icon "AscendancyIconsGaugeLevel4"
+		text "IDSGameOptionsResearchSpeedFaster"
+incomeSpeedButton
+	area [400, 20, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 4
+	textOffsetFromLeft 85
+	underlay "AscendancyButtonsScreenGauge"
+	overlay "Null"
+	Slow
+		icon "AscendancyIconsGaugeLevel1"
+		text "IDSGameOptionsIncomeSpeedSlow"
+	Normal
+		icon "AscendancyIconsGaugeLevel2"
+		text "IDSGameOptionsIncomeSpeedNormal"
+	Fast
+		icon "AscendancyIconsGaugeLevel3"
+		text "IDSGameOptionsIncomeSpeedFast"
+	Faster
+		icon "AscendancyIconsGaugeLevel4"
+		text "IDSGameOptionsIncomeSpeedFaster"
+shipPhysicsSpeedButton
+	area [400, 95, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 4
+	textOffsetFromLeft 85
+	underlay "AscendancyButtonsScreenGauge"
+	overlay "Null"
+	Slow
+		icon "AscendancyIconsGaugeLevel1"
+		text "IDSGameOptionsShipPhysicsSpeedSlow"
+	Normal
+		icon "AscendancyIconsGaugeLevel2"
+		text "IDSGameOptionsShipPhysicsSpeedNormal"
+	Fast
+		icon "AscendancyIconsGaugeLevel3"
+		text "IDSGameOptionsShipPhysicsSpeedFast"
+	Faster
+		icon "AscendancyIconsGaugeLevel4"
+		text "IDSGameOptionsShipPhysicsSpeedFaster"
+fleetSupplyScalarButton
+	area [400, 245, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 4
+	textOffsetFromLeft 85
+	underlay "AscendancyButtonsScreenGauge"
+	overlay "Null"
+	Small
+		icon "AscendancyIconsGaugeSmall"
+		text "IDSGameOptionsFleetSupplyScalarSmall"
+	Normal
+		icon "AscendancyIconsGaugeMedium"
+		text "IDSGameOptionsFleetSupplyScalarNormal"
+	Large
+		icon "AscendancyIconsGaugeLarge"
+		text "IDSGameOptionsFleetSupplyScalarLarge"
+victorySpeedButton
+	area [650, 170, 220 , 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 4
+	textOffsetFromLeft 85
+	underlay "AscendancyButtonsScreenGauge"
+	overlay "Null"
+	Slow
+		icon "AscendancyIconsGaugeLevel1"
+		text "IDSGameOptionsVictorySpeedSlow"
+	Normal
+		icon "AscendancyIconsGaugeLevel2"
+		text "IDSGameOptionsVictorySpeedNormal"
+	Fast
+		icon "AscendancyIconsGaugeLevel3"
+		text "IDSGameOptionsVictorySpeedFast"
+	Faster
+		icon "AscendancyIconsGaugeLevel4"
+		text "IDSGameOptionsVictorySpeedFaster"

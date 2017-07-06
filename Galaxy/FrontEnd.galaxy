@@ -1,0 +1,55 @@
+TXT
+versionNumber 4
+isBrowsable FALSE
+browsePictureName "AscendancyScenarioPlaceholder"
+browseName ""
+browseDescription ""
+isFirstCapitalShipIsFlagship FALSE
+randomizeStartingPositions TRUE
+planetArtifactDensity .15
+planetBonusDensity .60
+normalStartHomePlanetUpgradeLevel:Population 3
+normalStartHomePlanetUpgradeLevel:CivilianModules 1
+normalStartHomePlanetUpgradeLevel:TacticalModules 0
+normalStartHomePlanetUpgradeLevel:Home 1
+normalStartHomePlanetUpgradeLevel:ArtifactLevel 10
+normalStartHomePlanetUpgradeLevel:Infrastructure 2
+quickStartHomePlanetUpgradeLevel:Population 4
+quickStartHomePlanetUpgradeLevel:CivilianModules 1
+quickStartHomePlanetUpgradeLevel:TacticalModules 0
+quickStartHomePlanetUpgradeLevel:Home 1
+quickStartHomePlanetUpgradeLevel:ArtifactLevel 10
+quickStartHomePlanetUpgradeLevel:Infrastructure 2
+recommendedGameTypeCount 1
+recommendedGameType "FFA"
+metersPerGalaxyUnit 20000.000000
+pixelsPerGalaxyUnit 1
+useRandomGenerator TRUE
+randomizerParams
+	starPosOffsetRange
+		minPercentage 1.5
+		maxPercentage 2.0
+	playerParams
+		startingCredits 3000
+		startingMetal 800
+		startingCrystal 250
+		homePlanetType ""
+		homePlanetStarRadiusRange
+			minPercentage 1
+			maxPercentage 1
+		areExtraPlanetsColonized FALSE
+		extraPlanetsMaxRadius 10
+		extraPlanetsRadiusRange
+			minPercentage 1
+			maxPercentage 1
+		extraPlanetGroupCount 0
+starCount 1
+	star
+		type "BlackHoleStar"
+		radius 75
+		moveAreaRadius 60000.000000
+		hyperspaceExitRadius 50000.000000
+		connectionStarRadiusRange .5
+		connectionChance .75
+		maxPlayerCount 0
+		ringCount 0

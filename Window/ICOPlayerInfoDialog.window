@@ -1,0 +1,103 @@
+TXT
+backdropDimPercentage 0.9
+backdropBrush "AscendancyBackdropDialogSelect"
+titleOverlayBrush "PlayerThemePickerScreenTitleOverlay"
+size [3000 , 600]
+contentRefArea [1220, 200, 371, 207]
+titleRefArea [1200, 60, 371, 30]
+titleOverlayRefArea [0, 0, 693, 90]
+cancelButton
+	area [1450, 525, 220, 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 7
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"	
+	icon "AscendancyIconsMainCancel"
+	text "IDSICOPlayerInfoDialogCancelButton"
+addFriendButton
+	area [0, 265, 220, 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 7
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"					
+	icon "AscendancyIconsMainAddUser"
+	text "IDSICOLobbyScreenManageFriendsAddFriendButton"		
+joinChannelButton
+	area [230, 265, 220, 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 7
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"		
+	icon "AscendancyIconsMainChat"
+	text "IDSICOLobbyScreenManageFriendsJoinFriendChannelButton"	
+joinGameButton
+	area [230, 205, 220, 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 7
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"			
+	icon "AscendancyIconsMainGamepad"
+	text "IDSICOLobbyScreenManageFriendsJoinFriendGameButton"
+sendWhisperButton
+	area [0, 205, 220, 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 7
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"					
+	icon "AscendancyIconsMainChat"
+	text "IDSICOLobbyScreenManageFriendsSendWhisperButton"		
+playerInfoWindow
+	area [255, 50, 513, 335]
+	statusLabel
+		area [0, 0, 85, 20]
+		fontId "Label"
+		text "IDSICOPlayerInfoStatus"
+	status
+		area [95, 0, 125, 20]
+		fontId "Label"
+	latencyLabel
+		area [0, 29, 85, 20]
+		fontId "Label"
+		text "IDSICOPlayerInfoLatency"
+	latency
+		area [95, 29, 125, 20]
+		fontId "Label"
+	gameCountsLabel
+		area [0, 58, 85, 20]
+		fontId "Label"
+		text "IDSICOPlayerInfoGameCounts"
+	gameCounts
+		area [95, 58, 125, 20]
+		fontId "Label"			
+	channelNameLabel
+		area [0, 87, 85, 20]
+		fontId "Label"
+		text "IDSICOPlayerInfoChannelName"
+	channelName
+		area [95, 87, 125, 20]
+		fontId "Label"
+	gameNameLabel
+		area [0, 145, 85, 20]
+		fontId "Label"
+		text "IDSICOPlayerInfoGameName"
+	gameName
+		area [95, 145, 125, 20]
+		fontId "Label"
+	statusStringId-NotLoggedIn "IDSICOPlayerInfoStatusNotLoggedIn"
+	statusStringId-InChatLobby "IDSICOPlayerInfoStatusInChatLobby"
+	statusStringId-InGameLobby "IDSICOPlayerInfoStatusInGameLobby"
+	statusStringId-InStartedGame "IDSICOPlayerInfoStatusInStartedGame"
+	gameCountsTextFormat "IDSICOPlayerInfoGameCountsFormat"
+	steamNameLabel
+		area [0, 116, 85, 20]
+		fontId "Label"
+		text "IDSICOPlayerInfoSteamName"
+	steamName
+		area [95, 116, 125, 20]
+		fontId "Label"
+	steamIconArea [-237, -20, 0, 0]

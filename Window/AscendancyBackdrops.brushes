@@ -1,0 +1,113 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 22
+brush
+  name "AscendancyBackdropMenuSinglePlayer"
+  content "Simple"
+  fileName "AscendancyBackdropMenuSinglePlayer"
+  pixelBox [ 0 , 0 , 3000 , 768 ]
+brush
+  name "AscendancyBackdropMenuSinglePlayerLobby"
+  content "Simple"
+  fileName "AscendancyBackdropMenuSinglePlayerLobby"
+  pixelBox [ 0 , 0 , 3000 , 768 ]
+brush
+  name "AscendancyBackdropMenuNetworkGame"
+  content "Simple"
+  fileName "AscendancyBackdropMenuNetworkGame"
+  pixelBox [ 0 , 0 , 3000 , 768 ]
+brush
+  name "AscendancyBackdropMenuNetworkGameLobby"
+  content "Simple"
+  fileName "AscendancyBackdropMenuNetworkGameLobby"
+  pixelBox [ 0 , 0 , 3000 , 768 ]
+brush
+  name "AscendancyBackdropMenuInternetGame"
+  content "Simple"
+  fileName "AscendancyBackdropMenuInternetGame"
+  pixelBox [ 0 , 0 , 3000 , 768 ]
+brush
+  name "AscendancyBackdropMenuInternetGameLobby"
+  content "Simple"
+  fileName "AscendancyBackdropMenuInternetGameLobby"
+  pixelBox [ 0 , 0 , 3000 , 768 ]
+brush
+  name "AscendancyBackdropMenuOptions"
+  content "Simple"
+  fileName "AscendancyBackdropMenuOptions"
+  pixelBox [ 0 , 0 , 3000 , 768 ]
+brush
+  name "AscendancyBackdropDialogGameOptions"
+  content "Simple"
+  fileName "AscendancyBackdropDialogGameOptions"
+  pixelBox [ 0 , 0 , 3000 , 600 ]
+brush
+  name "AscendancyBackdropDialogVictoryOptions"
+  content "Simple"
+  fileName "AscendancyBackdropDialogVictoryOptions"
+  pixelBox [ 0 , 0 , 3000 , 600 ]
+brush
+  name "AscendancyBackdropDialogSelect"
+  content "Simple"
+  fileName "AscendancyBackdropDialogSelect"
+  pixelBox [ 0 , 0 , 3000 , 600 ]
+brush
+  name "AscendancyBackdropScreenFactionLogo"
+  content "Simple"
+  fileName "AscendancyBackdropScreenFactionLogo"
+  pixelBox [ 0 , 0 , 640 , 256 ]
+brush
+  name "AscendancyBackdropFactionSelectNR"
+  content "Simple"
+  fileName "AscendancyBackdropFactionSelectNR"
+  pixelBox [ 0 , 0 , 3000 , 768 ]
+brush
+  name "AscendancyBackdropFactionSelectIR"
+  content "Simple"
+  fileName "AscendancyBackdropFactionSelectIR"
+  pixelBox [ 0 , 0 , 3000 , 768 ]
+brush
+  name "AscendancyBackdropFactionSelectEOTH"
+  content "Simple"
+  fileName "AscendancyBackdropFactionSelectEOTH"
+  pixelBox [ 0 , 0 , 3000 , 768 ]
+brush
+  name "AscendancyBackdropFactionSelectPA"
+  content "Simple"
+  fileName "AscendancyBackdropFactionSelectPA"
+  pixelBox [ 0 , 0 , 3000 , 768 ]
+brush
+  name "AscendancyBackdropMenuInGameMenu"
+  content "Simple"
+  fileName "AscendancyBackdropMenuInGame"
+  pixelBox [ 0 , 0 , 290 , 768 ]
+brush
+  name "AscendancyBackdropMenuInGameContent"
+  content "Simple"
+  fileName "AscendancyBackdropMenuInGame"
+  pixelBox [ 290 , 0 , 734 , 768 ]
+brush
+  name "AscendancyBackdropMenuInGameResearch"
+  content "Simple"
+  fileName "AscendancyBackdropMenuInGameResearch"
+  pixelBox [ 0 , 0 , 3000 , 768 ]
+brush
+  name "AscendancyBackdropMenuInGameMainMenu"
+  content "Simple"
+  fileName "AscendancyBackdropMenuInGameMainMenu"
+  pixelBox [ 0 , 0 , 3000 , 768 ]
+brush
+  name "AscendancyBackdropMenuInGameDiplomacy"
+  content "Simple"
+  fileName "AscendancyBackdropMenuInGameDiplomacy"
+  pixelBox [ 0 , 0 , 3000 , 768 ]
+brush
+  name "AscendancyBackdropMenuInGameRelationships"
+  content "Simple"
+  fileName "AscendancyBackdropMenuInGameRelationships"
+  pixelBox [ 0 , 0 , 3000 , 768 ]
+brush
+  name "AscendancyBackdropMenuInGameOverview"
+  content "Simple"
+  fileName "AscendancyBackdropMenuInGameOverview"
+  pixelBox [ 0 , 0 , 3000 , 768 ]

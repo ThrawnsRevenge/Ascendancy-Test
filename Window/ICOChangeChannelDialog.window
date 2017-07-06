@@ -1,0 +1,39 @@
+TXT
+backdropDimPercentage 0.9
+backdropBrush "AscendancyBackdropDialogSelect"
+titleOverlayBrush "PlayerThemePickerScreenTitleOverlay"
+size [3000 , 600]
+contentRefArea [1220, 200, 371, 207]
+titleRefArea [1200, 60, 371, 30]
+titleOverlayRefArea [0, 0, 693, 90]
+cancelButton
+	area [1420, 440, 220, 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 7
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"	
+	icon "AscendancyIconsMainCancel"
+	text "IDS_DIALOGWINDOW_CANCELBUTTON"
+acceptButton
+	area [1180, 440, 220, 75]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 7
+	textOffsetFromLeft 70
+	underlay "AscendancyMenuScreenButtonIconLarge"
+	overlay "Null"	
+	icon "AscendancyIconsMainCancel"
+	text "IDS_DIALOGWINDOW_ACCEPTBUTTON"
+titleTextId "IDSICOLobbyScreenChangeChannelDialogWindowTitle"
+channelNameTextEntry
+	area [0, 0, 371, 30]
+	labelWidth 0
+	labelText ""
+visitedChannelNamesTextList
+	area [0, 40, 371, 200]
+	itemGap 3
+defaultChannelNameStringIdCount 4
+channelName "IDSICODefaultChannel0"
+channelName "IDSICODefaultChannel1"
+channelName "IDSICODefaultChannel2"
+channelName "IDSICODefaultChannel3"

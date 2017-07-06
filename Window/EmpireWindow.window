@@ -1,0 +1,141 @@
+TXT
+width 200
+maxRowIconCount 7
+rowHeight 40
+itemOffsetFromTop 10
+rowScrollBarUnitHeight 20
+scrollBarOffsetFromLeft 1
+scrollBarOffsetFromTop 39
+scrollBarWidth 15
+toggleButtonIndent 0
+parentIconIndent 40
+childIconIndent 40
+iconTextSpacing 10
+iconIconSpacing 0
+tutorialAreaHeightOffset -5000
+toggleButtonSize [30, 30]
+iconSize [30, 30]
+textSize [200, 30]
+nameFontId "ButtonLabel"
+toggleButtonIconOn "AscendancyIconsMainUp"
+toggleButtonIconOff "AscendancyIconsMainDown"
+isPinnedIconOverlay "EmpireWindowIsPinnedIconOverlay"
+iconOverlayDef
+	homePlanet "AscendancyEmpireTreePlanetCapitalOverlay"
+	artifactPlanet "Null"
+	resourceAsteroidMetal "EmpireWindowIconEntityOverlayResourceExtractorMetal"
+	resourceAsteroidCrystal "EmpireWindowIconEntityOverlayResourceExtractorCrystal"
+	unspentAbilityPointsAndUnassignedSquads "HUDIconEntityOverlayUnspentAbilityPointsAndUnassignedSquads"
+	unspentAbilityPoints "HUDIconEntityOverlayUnspentAbilityPoints"
+	unassignedSquads "HUDIconEntityOverlayUnassignedSquads"
+	partiallyStacked "HUDIconEntityOverlayPartiallyStacked"
+	almostFullyStacked "HUDIconEntityOverlayAlmostFullyStacked"
+	fullyStacked "HUDIconEntityOverlayFullyStacked"
+	fleetLeader "AscendancyIconsFleetLeader"
+optionsWindowDef
+	toggleSelectionMenuButton
+		area [83, 2, 33, 24]
+		openIcon "EmpireWindowOptionsWindowSelectionMenuOpenButton"
+		closedIcon "EmpireWindowOptionsWindowSelectionMenuClosedButton"
+		infoCardIcon "EmpireWindowOptionsWindowSelectionMenuInfoCardIcon"
+	toggleIsPinnedButton
+		area [46, 2, 33, 24]
+		icon "EmpireWindowOptionsWindowToggleIsPinnedButton"
+	toggleIsStackedButton
+		area [120, 2, 33, 24]
+		isStackedIcon "EmpireWindowOptionsWindowIsStackedButton"
+		isNotStackedIcon "EmpireWindowOptionsWindowIsNotStackedButton"
+selectionWindowDef
+	windowSize [200 , 600]
+	backdrop "AscendancyEmpireWindow"
+	sharedHotKeyButtonInternals
+		fontId "Label"
+		iconOffsetFromLeft 0
+		textOffsetFromLeft 0
+		underlay "Null"
+		overlay "Null"
+	hotKeyButton-0
+		area [144, 40, 27 , 29]
+		icon "AscendancyIconsNumber10"
+	hotKeyButton-1
+		area [20, 10, 27 , 29]
+		icon "AscendancyIconsNumber1"
+	hotKeyButton-2
+		area [51, 10, 27 , 29]
+		icon "AscendancyIconsNumber2"
+	hotKeyButton-3
+		area [82, 10, 27 , 29]
+		icon "AscendancyIconsNumber3"
+	hotKeyButton-4
+		area [113, 10, 27 , 29]
+		icon "AscendancyIconsNumber4"
+	hotKeyButton-5
+		area [144, 10, 27 , 29]
+		icon "AscendancyIconsNumber5"
+	hotKeyButton-6
+		area [20, 40, 27 , 29]
+		icon "AscendancyIconsNumber6"
+	hotKeyButton-7
+		area [51, 40, 27 , 29]
+		icon "AscendancyIconsNumber7"
+	hotKeyButton-8
+		area [82, 40, 27 , 29]
+		icon "AscendancyIconsNumber8"
+	hotKeyButton-9
+		area [113, 40, 27 , 29]
+		icon "AscendancyIconsNumber9"
+	sharedSelectionButtonInternals
+		fontId "Label"
+		iconOffsetFromLeft 0
+		textOffsetFromLeft 25
+		underlay "AscendancyMenuScreenButtonMedium"
+		overlay "Null"
+	selectionButton-OwnedColonyShips
+		area [20 , 73, 152 , 46]
+		text "IDSEmpireWindowSelectionButtonOwnedColonyShips"
+		infoCardDescStringId "IDSEmpireWindowInfoCardSelectionButtonDescOwnedColonyShips"
+	selectionButton-OwnedScoutShips
+		area [20 , 125, 152 , 46]
+		text "IDSEmpireWindowSelectionButtonOwnedScoutShips"
+		infoCardDescStringId "IDSEmpireWindowInfoCardSelectionButtonDescOwnedScoutShips"
+	selectionButton-OwnedCapitalShips
+		area [20 , 177, 152 , 46]
+		text "IDSEmpireWindowSelectionButtonOwnedCapitalShips"
+		infoCardDescStringId "IDSEmpireWindowInfoCardSelectionButtonDescOwnedCapitalShips"
+	selectionButton-OwnedStarbases
+		area [20 , 281, 152 , 46]
+		text "IDSEmpireWindowSelectionButtonOwnedStarbases"
+		infoCardDescStringId "IDSEmpireWindowInfoCardSelectionButtonDescOwnedStarbases"
+	selectionButton-OwnedEnvoys
+		area [20 , 333, 152 , 46]
+		text "IDSEmpireWindowSelectionButtonOwnedEnvoys"
+		infoCardDescStringId "IDSEmpireWindowInfoCardSelectionButtonDescOwnedEnvoys"
+	selectionButton-OwnedPlanetsWithResourceAsteroids
+		area [20 , 541, 152 , 46]
+		text "IDSEmpireWindowSelectionButtonOwnedPlanetsWithResourceAsteroids"
+		infoCardDescStringId "IDSEmpireWindowInfoCardSelectionButtonDescOwnedResourceAsteroids"
+	selectionButton-OwnedPlanetsWithFactories
+		area [20 , 229, 152 , 46]
+		text "IDSEmpireWindowSelectionButtonOwnedPlanetsWithFactories"
+		infoCardDescStringId "IDSEmpireWindowInfoCardSelectionButtonDescOwnedPlanetsWithFactories"
+	selectionButton-OwnedPlanetsWithUpgrades
+		area [20 , 385, 152 , 46]
+		text "IDSEmpireWindowSelectionButtonOwnedPlanetsWithUpgrades"
+		infoCardDescStringId "IDSEmpireWindowInfoCardSelectionButtonDescOwnedPlanetsWithUpgrades"
+	selectionButton-OwnedPlanetsWithCivilianSlots
+		area [20 , 489, 152 , 46]
+		text "IDSEmpireWindowSelectionButtonOwnedPlanetsWithCivilianSlots"
+		infoCardDescStringId "IDSEmpireWindowInfoCardSelectionButtonDescOwnedPlanetsWithCivilianSlots"
+	selectionButton-PlanetsWithArtifacts
+		area [20 , 437, 152 , 46]
+		text "IDSEmpireWindowSelectionButtonPlanetsWithArtifacts"
+		infoCardDescStringId "IDSEmpireWindowInfoCardSelectionButtonDescOwnedPlanetsWithArtifacts"
+pipCloudEmpireWindowRenderDef
+	pipRootOffset [4, -1]
+	pipSize [5, 5]
+	pipSpacing 3
+	borderSize [2, 2]
+	minHPips 3
+	maxVPips 5
+	cloudBackdropCursorOver "EmpireWindowPipCloudCursorOverBackdrop"
+	cloudBackdropSelected "EmpireWindowPipCloudSelectedBackdrop"

@@ -1,0 +1,13 @@
+﻿TXT
+onlyLoadOnDemand TRUE
+brushCount 2
+brush
+	name "GameOverDefeat"
+	content "Simple"
+	fileName "Ascendancy_GameOver_Defeat"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverVictory"
+	content "Simple"
+	fileName "Ascendancy_GameOver_Victory"
+	pixelBox [ 0 , 0 , 1024 , 768 ]

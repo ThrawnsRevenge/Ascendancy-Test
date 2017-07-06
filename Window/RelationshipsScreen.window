@@ -1,0 +1,180 @@
+TXT
+tabWindow
+	topLeftOffset [0, 0]
+	buttonTopLeftOffset [ 55 , 110]
+	buttonSize [ 50 , 50 ]
+	buttonIndicatorArea [0, 0, 0, 0]
+	buttonIndicatorBackdrop "Null"
+	titleStringId "IDSRelationshipScreenTitle"
+	titleFontId "TabbedScreenTitle"
+	titleArea [-5000, -5000, 190, 40]
+	titleOverlayArea [12, 4, 208 , 59]
+	titleOverlay "TabWindowTitleOverlay"
+	buttonsBackdropArea [0, 0, 290, 768]
+	buttonsBackdropDetailArea [0, 0, 210, 749]
+	contentArea [290, 0, 734, 768]
+	buttonsBackdrop "Null"
+	buttonsBackdropDetail ""
+	contentBackdrop "AscendancyBackdropMenuInGameRelationships"
+	nonActiveButtonInternals
+		fontId "ButtonLabel"
+		iconOffsetFromLeft -10
+		textOffsetFromLeft 60
+		underlay "AscendancyMenuButtonInGameNonActive"
+		overlay "Null"
+	activeButtonInternals
+		fontId "ButtonLabel"
+		iconOffsetFromLeft -10
+		textOffsetFromLeft 60
+		underlay "AscendancyMenuButtonInGameActive"
+		overlay "Null"
+	closeButton
+		area [55, 682, 50 , 50]
+		fontId "ButtonLabel"
+		iconOffsetFromLeft -10
+		textOffsetFromLeft 60
+		underlay "AscendancyMenuButtonInGameNonActive"
+		overlay "Null"
+		icon "AscendancyIconsMainCancel"
+		text "IDSNPCScreenCloseButton"
+relationshipsTabContentWindowDef
+	currentPlayerFrame
+		hoverArea [235,250,265,350]
+		portraitFrameArea [0, 50, 200 , 200]
+		portraitPictureArea [0, 50, 200 , 200]
+		portraitDeadOverlayArea [145, 70, 0 , 0]
+		diplomaticPointsArea [145, 360, 0, 0]
+		diplomaticPointsLabelArea [145, 330, 0, 0]
+		portraitUnderlay "AscendancyPlayerScreenPortrait"
+		portraitOverlay "Null"
+		portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDead"
+		portraitBackdrop "PlayerScreenHappinessBackdropForHumanPlayer"
+		portraitBackdropArea [0,0,200,2000]
+		iconArea [70, -90, 50, 50]
+		nameArea [70, -150, 50, 50]
+		nameFont "NotificationPlayer"
+		diplomacyPointsFont "WindowSubTitle2"
+		diplomacyPointsLabelFont "Label"
+	otherPlayersCount 9
+		otherPlayerFrame
+			hoverArea [20,140,122]
+			portraitFrameArea [45, 90, 0 , 0]
+			portraitPictureArea [20, 35, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitOverlay"
+			portraitOverlay "Null"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [15, 130, 0, 0]
+			relationshipArea [60, 130, 0, 0]
+			relationshipFont "StatisticsNumber"
+		otherPlayerFrame
+			hoverArea [10,265,104,122]
+			portraitFrameArea [45, 90, 0 , 0]
+			portraitPictureArea [20, 35, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitUnderlay"
+			portraitOverlay "Null"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [15, 130, 0, 0]
+			relationshipArea [60, 130, 0, 0]
+			relationshipFont "StatisticsNumber"
+		otherPlayerFrame
+			hoverArea [10,390,104,122]
+			portraitFrameArea [45, 90, 0 , 0]
+			portraitPictureArea [20, 35, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitUnderlay"
+			portraitOverlay "Null"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [15, 130, 0, 0]
+			relationshipArea [60, 130, 0, 0]
+			relationshipFont "StatisticsNumber"
+		otherPlayerFrame
+			hoverArea [80,570,104,122]
+			portraitFrameArea [45, 90, 0 , 0]
+			portraitPictureArea [20, 35, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitUnderlay"
+			portraitOverlay "Null"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [15, 130, 0, 0]
+			relationshipArea [60, 130, 0, 0]
+			relationshipFont "StatisticsNumber"
+		otherPlayerFrame
+			hoverArea [295,590,104,122]
+			portraitFrameArea [45, 90, 0 , 0]
+			portraitPictureArea [20, 35, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitUnderlay"
+			portraitOverlay "Null"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [15, 130, 0, 0]
+			relationshipArea [60, 130, 0, 0]
+			relationshipFont "StatisticsNumber"
+		otherPlayerFrame
+			hoverArea [510,570,104,122]
+			portraitFrameArea [45, 90, 0 , 0]
+			portraitPictureArea [20, 35, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitUnderlay"
+			portraitOverlay "Null"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [15, 130, 0, 0]
+			relationshipArea [60, 130, 0, 0]
+			relationshipFont "StatisticsNumber"
+		otherPlayerFrame
+			hoverArea [580,390,104,122]
+			portraitFrameArea [45, 90, 0 , 0]
+			portraitPictureArea [20, 35, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitUnderlay"
+			portraitOverlay "Null"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [15, 130, 0, 0]
+			relationshipArea [60, 130, 0, 0]
+			relationshipFont "StatisticsNumber"
+		otherPlayerFrame
+			hoverArea [580,265,104,122]
+			portraitFrameArea [45, 90, 0 , 0]
+			portraitPictureArea [20, 35, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitUnderlay"
+			portraitOverlay "Null"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [15, 130, 0, 0]
+			relationshipArea [60, 130, 0, 0]
+			relationshipFont "StatisticsNumber"
+		otherPlayerFrame
+			hoverArea [570,140,104,122]
+			portraitFrameArea [45, 90, 0 , 0]
+			portraitPictureArea [20, 35, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitUnderlay"
+			portraitOverlay "Null"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [15, 130, 0, 0]
+			relationshipArea [60, 130, 0, 0]
+			relationshipFont "StatisticsNumber"
+	leftUpTube "RelationshipScreenTubeUpLeft"
+	rightUpTube "RelationshipScreenTubeUpRight"
+	sideTube "RelationshipScreenTubeSide"
+	leftDownTube "RelationshipScreenTubeDownLeft"
+	rightDownTube "RelationshipScreenTubeDownRight"
+	downTube "RelationshipScreenTubeDown"
+	leftUpTubeCaps "Null"
+	rightUpTubeCaps "Null"
+	sideTubeCaps "Null"
+	leftDownTubeCaps "Null"
+	rightDownTubeCaps "Null"
+	downTubeCaps "Null"
+	otherPlayerOneTubeArea [173, 250, 0, 0]
+	otherPlayerTwoTubeArea [162, 330, 0, 0]
+	otherPlayerThreeTubeArea [162, 460, 0, 0]
+	otherPlayerFourTubeArea [190, 555, 0, 0]
+	otherPlayerFiveTubeArea [335, 560, 0, 0]
+	otherPlayerSixTubeArea [480, 555, 0, 0]
+	otherPlayerSevenTubeArea [508, 460, 0, 0]
+	otherPlayerEightTubeArea [508, 330, 0, 0]
+	otherPlayerNineTubeArea [497, 252, 0, 0]
+	legendArea [335,240,0,0]
+	legendFont "ButtonLabel"

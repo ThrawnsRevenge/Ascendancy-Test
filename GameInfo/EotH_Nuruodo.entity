@@ -1,0 +1,194 @@
+﻿TXT
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+typeCount 1
+frigateRoleType "Heavy"
+statCountType "FrigateHeavy"
+mainViewIcon "MAINVIEWICON_NURUODO_BROADSIDE"
+picture "PICTURE_FRIGATE_NURUODO"
+NameStringID "IDS_FRIGATE_NURUODO_NAME"
+DescriptionStringID "IDS_FRIGATE_NURUODO_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_LIGHT"
+basePrice
+	credits 500.000000
+	metal 50.000000
+	crystal 20.000000
+slotCount 4.000000
+BuildTime 45.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 40.000000
+MaxHullPoints 2100.000000
+MaxShieldPoints 2100.000000
+HullPointRestoreRate 1.000000
+ShieldPointRestoreRate 20.000000
+BaseArmorPoints 2.000000
+maxMitigation 0.600000
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "EotHResearch_ShipUnlock_Nuruodo"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 5
+numSpecificDebris 0
+armorType "Medium"
+hudIcon "HUDICON_NURUODO"
+smallHudIcon "HUDICONSMALL_FRIGATE"
+infoCardIcon "HUDICONSMALL_FRIGATE"
+minZoomDistanceMult 4.000000
+NumWeapons 2
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "LASERTECH"
+	DamagePerBank:FRONT 0.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 200.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 10000.000000
+	PreBuffCooldownTime 4.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.900000
+	TravelSpeed 2000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 2
+		burstDelay 0.200000
+		fireDelay 0.000000
+		muzzleEffectName "MuzzleBlue_Single_Large"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_FRIGATE_LASER_MUZZLE"
+			sound "WEAPON_FRIGATE_LASER_MUZZLE_ALT1"
+			sound "WEAPON_FRIGATE_LASER_MUZZLE_ALT2"
+		hitEffectName "MegamaserImpact"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "MegaMaser_Single"
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "LASERTECH"
+	DamagePerBank:FRONT 0.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 150.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 10000.000000
+	PreBuffCooldownTime 4.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.900000
+	TravelSpeed 2000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 4
+		burstDelay 0.200000
+		fireDelay 0.000000
+		muzzleEffectName "MuzzleBlue_Single_Larger"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_CORVETT_LASER_MUZZLE"
+			sound "WEAPON_CORVETT_LASER_MUZZLE_ALT1"
+			sound "WEAPON_CORVETT_LASER_MUZZLE_ALT2"
+		hitEffectName "MegamaserImpact"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "MegaMaser_Quad"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 2000.000000
+ShieldMeshName "Hand_Nuruodo"
+renderShield TRUE
+maxAccelerationLinear 200.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 3.700000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 825.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 "EotH_Clawcraft_Squad"
+squadAntiMatterCost:0 12.000000
+squadTypeEntityDef:1 "EotH_Krsiss_Squad"
+squadAntiMatterCost:1 12.000000
+squadTypeEntityDef:2 "EotH_Syca_Squad"
+squadAntiMatterCost:2 12.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 1
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "EVENTEH_NURUODOATTACKTWO"
+SoundID "EVENTEH_NURUODOATTACKTHREE"
+SoundID "EVENTEH_NURUODOATTACKONE"
+NumSoundsFor:ONCREATION 1
+SoundID "EVENTEH_NURUODOSELECTONE"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "EVENTEH_NURUODOMOVETWO"
+SoundID "EVENTEH_NURUODOMOVETHREE"
+SoundID "EVENTEH_NURUODOMOVEONE"
+NumSoundsFor:ONSELECTED 3
+SoundID "EVENTEH_NURUODOSELECTONE"
+SoundID "EVENTEH_NURUODOSELECTTWO"
+SoundID "EVENTEH_NURUODOSELECTTHREE"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "EVENTEH_NURUODOMOVETWO"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Hand_Nuruodo"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName ""
+ExplosionName "Frigate1"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_TECHCAPITALSHIP"
+ability:0 "AbilityBombardEmpire"
+ability:1 "AbilityEnhancedTargetting"
+ability:2 ""
+ability:3 ""
+ability:4 "AbilityPassiveLowLifeT2"
+MaxAntiMatter 24.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 0
+minShadow 0.100000
+maxShadow 0.800000
+allegianceDecreasePerRoundtrip 0.000000

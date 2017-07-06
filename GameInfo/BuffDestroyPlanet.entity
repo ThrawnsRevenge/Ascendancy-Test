@@ -1,0 +1,90 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit -1
+buffExclusivityForAIType "NotExclusive"
+isInterruptable TRUE
+isChannelling TRUE
+numInstantActions 5
+instantAction
+	buffInstantActionType "PlayAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Ability"
+			abilityIndex 0
+		smallEffectName "Ability_GalaxyGunChargeUp"
+		mediumEffectName "Ability_GalaxyGunChargeUp"
+		largeEffectName "Ability_GalaxyGunChargeUp"
+		soundID "WEAPON_TECHORBITALCANNON_CHARGE"
+instantAction
+	buffInstantActionType "CreateCannonShell"
+	instantActionTriggerType "OnDelay"
+	delayTime 6.000000
+	cannonShellType "CannonGalaxyGun"
+	effectInfo
+		effectAttachInfo
+			attachType "Ability"
+			abilityIndex 0
+		smallEffectName "Ability_OrbitalCannonTechMuzzle"
+		mediumEffectName "Ability_OrbitalCannonTechMuzzle"
+		largeEffectName "Ability_OrbitalCannonTechMuzzle"
+		soundID "WEAPON_TECHORBITALCANNON_MUZZLE"
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnCondition"
+	instantActionConditionType "IfOwnerDoesNotHaveBuff"
+	conditionBuffType "BuffDestroyPlanetFirst"
+	conditionBuffShortName ""
+	buffType "BuffDestroyPlanetFirst"
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnCondition"
+	instantActionConditionType "IfOwnerHasBuff"
+	conditionBuffType "BuffDestroyPlanetFirst"
+	conditionBuffShortName ""
+	buffType "BuffDestroyPlanetSecond"
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnCondition"
+	instantActionConditionType "IfOwnerHasBuff"
+	conditionBuffType "BuffDestroyPlanetSecond"
+	conditionBuffShortName ""
+	buffType "BuffDestroyPlanetThird"
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 2
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 7.000000
+		Level:1 0.000000
+		Level:2 0.000000
+		Level:3 0.000000
+finishCondition
+	finishConditionType "OwnerChanged"
