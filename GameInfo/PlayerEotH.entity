@@ -31,11 +31,10 @@ entities
 			count 0
 	capitalShipInfo
 		Page:0
-			count 6
+			count 5
 			entityDefName "EotH_Syndic"
 			entityDefName "EotH_Ascendancy"
 			entityDefName "EotH_Phalanx"
-			entityDefName "EotH_Efodio"
 			entityDefName "EotH_Peltast"
 			entityDefName "EotH_Intego"
 	frigateInfo
@@ -48,7 +47,7 @@ entities
 			entityDefName "EotH_Auriette"
 			entityDefName "Remnant_Sentinel"
 			entityDefName "EotH_Vigilance"
-			entityDefName "Remnant_Lambda"
+			entityDefName "EotH_Lambda"
 		Page:1
 			count 6
 			entityDefName "EotH_Chaf"
@@ -63,12 +62,11 @@ entities
 			entityDefName "Remnant_Stargalleon"
 			entityDefName "FrigatePhaseRefineryShip"
 	researchInfo
-		count 96
+		count 95
 		entityDefName "RemnantResearch_Dummy_HyperspaceGalaxies"
 		entityDefName "DummyResearch_AlwaysOn"
 		entityDefName "EotHResearch_AbilityUnlock_PlanetaryMegamaser"
 		entityDefName "RemnantResearch_AbilityUnlock_Overwhelm"
-		entityDefName "NewRepResearch_Global_CommunicationArrays"
 		entityDefName "EotHResearch_ShipUnlock_Vigilance"
 		entityDefName "EotHResearch_ShipUnlock_Nuruodo"
 		entityDefName "EotHResearch_ShipUnlock_Budirech"
@@ -90,7 +88,7 @@ entities
 		entityDefName "EotHResearch_ShipUnlock_Siath"
 		entityDefName "EotHResearch_Flat_Megamasers"
 		entityDefName "EotHResearch_Flat_Megamasers2"
-		entityDefName "RemnantResearch_ShipUnlock_Lambda"
+		entityDefName "EotHResearch_ShipUnlock_Lambda"
 		entityDefName "EotHResearch_ShipUnlock_Scarsiss"
 		entityDefName "EotHResearch_ShipUnlock_Krsiss"
 		entityDefName "RESEARCHSUBJECT_PACTUNLOCK_TRADE"
