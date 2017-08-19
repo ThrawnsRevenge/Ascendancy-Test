@@ -6,6 +6,7 @@ buffType "BuffRepairDroids"
 effectInfo
 	effectAttachInfo
 		attachType "Ability"
+		abilityIndex 0
 			smallEffectName "Ability_RepairPlatformTechActivate"
 			mediumEffectName "Ability_RepairPlatformTechActivate"
 			largeEffectName "Ability_RepairPlatformTechActivate"
