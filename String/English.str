@@ -1,5 +1,101 @@
 TXT
-NumStrings 8826
+NumStrings 8864
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_COMMANDTRAINING_NAME"
+	Value "Command Training"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_COMMANDTRAINING_DESCRIPTION"
+	Value "New Republic Officers are now trained directly through military academies on fleet doctrine."
+StringInfo
+	ID "IDS_CAPITALSHIP_MIST_NAME"
+	Value "Mist"
+StringInfo
+	ID "IDS_CAPITALSHIP_MIST_DESCRIPTION"
+	Value "Assault Class Super Battledragon"
+StringInfo
+	ID "IDS_CAPITALSHIP_PULSAR_NAME"
+	Value "Pulsar"
+StringInfo
+	ID "IDS_CAPITALSHIP_PULSAR_DESCRIPTION"
+	Value "Carrier Class Super Battledragon"
+StringInfo
+	ID "IDS_CAPITALSHIP_NEUTRON_NAME"
+	Value "Neutron"
+StringInfo
+	ID "IDS_CAPITALSHIP_NEUTRON_DESCRIPTION"
+	Value "Carrier Class Super Battledragon"
+StringInfo
+	ID "IDS_CAPITALSHIP_CORONA_NAME"
+	Value "Corona"
+StringInfo
+	ID "IDS_CAPITALSHIP_CORONA_DESCRIPTION"
+	Value "Battleship Class Super Battledragon"
+StringInfo
+	ID "IDS_CAPITALSHIP_MAGNETAR_NAME"
+	Value "Magnetar"
+StringInfo
+	ID "IDS_CAPITALSHIP_MAGNETAR_DESCRIPTION"
+	Value "Colony Class Super Battledragon"
+StringInfo
+	ID "IDS_FRIGATE_CHARUBAH_NAME"
+	Value "Charubah Battledragon"
+StringInfo
+	ID "IDS_FRIGATE_CHARUBAH_DESCRIPTION"
+	Value "Support Class Battledragon"
+StringInfo
+	ID "IDS_FRIGATE_TEREPHON_NAME"
+	Value "Terephon Battledragon"
+StringInfo
+	ID "IDS_FRIGATE_TEREPHON_DESCRIPTION"
+	Value "Assault Class Battledragon"
+StringInfo
+	ID "IDS_FRIGATE_OLANJI_NAME"
+	Value "Olanji Battledragon"
+StringInfo
+	ID "IDS_FRIGATE_OLANJI_DESCRIPTION"
+	Value "Carrier Class Battledragon"
+StringInfo
+	ID "IDS_FRIGATE_RAY_NAME"
+	Value "Ray Frigate"
+StringInfo
+	ID "IDS_FRIGATE_RAY_DESCRIPTION"
+	Value "Ray Frigate"
+StringInfo
+	ID "IDS_FRIGATE_STELLA_NAME"
+	Value "Stella Frigate"
+StringInfo
+	ID "IDS_FRIGATE_STELLA_DESCRIPTION"
+	Value "Stella Fleet Tender Frigate"
+StringInfo
+	ID "IDS_FRIGATE_EXPRESS_NAME"
+	Value "Express Frigate"
+StringInfo
+	ID "IDS_FRIGATE_EXPRESS_DESCRIPTION"
+	Value "Express Diplomatic Frigate"
+StringInfo
+	ID "IDS_FRIGATE_BETA_NAME"
+	Value "Beta Frigate"
+StringInfo
+	ID "IDS_FRIGATE_BETA_DESCRIPTION"
+	Value "Beta Anti Fighter Frigate"
+StringInfo
+	ID "IDS_FRIGATE_FLARE_NAME"
+	Value "Flare Scout Frigate"
+StringInfo
+	ID "IDS_FRIGATE_FLARE_DESCRIPTION"
+	Value "TBD"
+StringInfo
+	ID "IDS_ABILITY_DIPLOMATICIMMUNITY_NAME"
+	Value "Diplomatic Immunity"
+StringInfo
+	ID "IDS_ABILITY_DIPLOMATICIMMUNITY_DESCRIPTION"
+	Value "Leia is able to escape damage for a brief period."
+StringInfo
+	ID "IDS_ABILITY_DIPLOMATICIMMUNITY_NAME"
+	Value "Diplomatic Immunity"
+StringInfo
+	ID "IDS_ABILITY_DIPLOMATICIMMUNITY_DESCRIPTION"
+	Value "Leia is able to escape damage for a brief period."
 StringInfo
 	ID "IDS_ABILITY_DIPLOMATICIMMUNITY_NAME"
 	Value "Diplomatic Immunity"
@@ -140,7 +236,7 @@ StringInfo
 	Value "Scourge Squadron Leader"
 StringInfo
 	ID "IDS_ABILITY_SCOURGE_DESCRIPTION"
-	Value "Kaine summons help from other Scourge Squadron Star Destroyers temporarily."
+	Value "Kaine summons help from other Scourge Squadron Star Destroyersy."
 StringInfo
 	ID "IDS_ABILITY_SENSORSCRAMBLER_NAME"
 	Value "Sensor Scrambler"
@@ -607,6 +703,12 @@ StringInfo
 	ID "IDS_ABILITY_ALTORLINK_DESCRIPTION"
 	Value "The vessel assists a nearby combatant with targeting, greatly increasing the combatant's rate of fire and chances of scoring a direct hit."
 StringInfo
+	ID "IDS_ABILITY_ALTORPASSIVEHEAL_NAME"
+	Value "Fleet Logistics"
+StringInfo
+	ID "IDS_ABILITY_ALTORPASSIVEHEAL_DESCRIPTION"
+	Value "The Altore constantly heals friendly ships around it for a small amount."
+StringInfo
 	ID "IDS_ABILITY_DRYDOCKARMS_NAME"
 	Value "Drydock Arm"
 StringInfo
@@ -721,6 +823,12 @@ StringInfo
 	ID "IDS_REMNANTRESEARCH_FORWARDBASES_DESCRIPTION"
 	Value "Daala's fervour to recapture lost Imperial territory spurs production of offensive bases."
 StringInfo
+	ID "IDS_PLANETMODULE_SHIPYARDADMIN_NAME"
+	Value "Shipyard Administration"
+StringInfo
+	ID "IDS_PLANETMODULE_SHIPYARDADMIN_DESCRIPTION"
+	Value "Shipyards built at this world will have an increased build rate. This building is not a shipyard."
+StringInfo
 	ID "IDS_FIGHTERTIEDROID_NAME"
 	Value "TIE Droid"
 StringInfo
@@ -730,10 +838,10 @@ StringInfo
 	ID "IDS_REMNANTRESEARCH_FORTRESSWORLDS_NAME"
 	Value "Fortress Worlds"
 StringInfo
-	ID "IDS_REMNANTRESEARCH_FORRESSWORLDS_DESCRIPTION"
+	ID "IDS_REMNANTRESEARCH_FORTRESSWORLDS_DESCRIPTION"
 	Value "The Emperor contructs more military platforms on important planets in order to fortify his holdings. Allows more tactical structures."
 StringInfo
-	ID "IDS_REMNANTRESEARCH_FORRESSWORLDSTWO_DESCRIPTION"
+	ID "IDS_REMNANTRESEARCH_FORTRESSWORLDSTWO_DESCRIPTION"
 	Value "The Emperor contructs more military platforms on important planets in order to fortify his holdings. Allows more starbases."
 StringInfo
 	ID "IDS_REMNANTRESEARCH_TRAININGCUTS_NAME"
@@ -801,6 +909,9 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_PROTONSPLIT_NAME"
 	Value "Split Proton"
+StringInfo
+	ID "IDS_ABILITY_PROTONSPLIT_UNLOCK"
+	Value "Allows Warlord gunboats to use the Split Proton ability."
 StringInfo
 	ID "IDS_ABILITY_PROTONSPLIT_DESCRIPTION"
 	Value "When this ship launches a torpedo, it splits and hits two other nearby targets after the first."
@@ -1462,6 +1573,9 @@ StringInfo
 	ID "IDS_RACESELECTDIALOG_ALIGNMENT_DESCRIPTION"
 	Value "The Pentastar Alignment formed in 4 ABY after the Battle of Endor primarily with the Imperial forces under Grand Moff Ardus Kaine of Oversector Outer. Because much of the territory except for Oversector Outer is from the backwater worlds of the Outer Rim, much of the Pentastar forces are comprised of a mix of outdated technology from the Clone Wars in support of state-of-the-art Imperial battleships. The Alignment is a primarily corporation-based faction, with a heavy emphasis on trade."
 StringInfo
+	ID "IDS_RACESELECTDIALOG_HAPES_DESCRIPTION"
+	Value "The Hapes Consortium was the ruling government and consortium of the Hapes Cluster. A hereditary monarchy based on the capital world of Hapes, it ruled over the region in isolation since before 3000 BBY, protected by the Transitory Mists. It spanned 63 closely positioned star systems, each with an inhabited world."
+StringInfo
 	ID "IDS_RACESELECTDIALOG_SELECTRANDOM"
 	Value "Random"
 StringInfo
@@ -1825,7 +1939,7 @@ StringInfo
 	ID "IDS_CAPITALSHIP_INTEGO_NAME"
 	Value "Intego Destroyer"
 StringInfo
-	ID "IDS_CAPITALSHIP_PHALANX_DESCRIPTION"
+	ID "IDS_CAPITALSHIP_INTEGO_DESCRIPTION"
 	Value "The largest ship in the Empire of the Hand's navy, the Intego has less firepower than some of the smaller ships, but a far more resilient hull."
 StringInfo
 	ID "IDS_CAPITALSHIP_ALTOR_NAME"
@@ -3068,7 +3182,7 @@ StringInfo
 	Value "Field Training"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_FIELDTRAINING_DESCRIPTION"
-	Value "Capital ships can passively gain higher levels."
+	Value "New Republic Officers gain experience of command by direct combat."
 StringInfo
 	ID "IDS_REMNANTRESEARCH_CITYPLANNING_NAME"
 	Value "Urban Zoning"
@@ -3107,10 +3221,10 @@ StringInfo
 	Value "In their drive to bring democracy to the galaxy, New Republic factions improve their relationship with each other at the expense of relations with other factions."
 StringInfo
 	ID "IDS_FREERESEARCH_HYPERSPACE_NAME"
-	Value "Free Hyperspace"
+	Value "Intergalactic Travel"
 StringInfo
 	ID "IDS_FREERESEARCH_HYPERSPACE_DESCRIPTION"
-	Value "If you have a hyperdrive, hyperspace costs nothing."
+	Value "Your ships can leave the Star Wars galaxy, and go to other, less Star Wars-y galaxies."
 StringInfo
 	ID "IDS_ABILITY_THRAWNDOCTRINE_NAME"
 	Value "Thrawn Doctrine"

@@ -19,7 +19,7 @@ basePrice
 	credits 950.000000
 	metal 90.000000
 	crystal 30.000000
-slotCount 8.000000
+slotCount 7.000000
 BuildTime 65.000000
 hasLevels FALSE
 ExperiencePointsForDestroying 42.500000
@@ -181,7 +181,7 @@ HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
 HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_PHASECAPITALSHIP"
 ability:0 "AbilityResilient"
-ability:1 ""
+ability:1 "AbilityVeteran"
 ability:2 ""
 ability:3 "AbilityBombardEmpire"
 ability:4 "AbilityPassiveLowLifePodsT2"

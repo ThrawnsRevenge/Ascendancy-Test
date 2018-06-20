@@ -13,8 +13,8 @@ scuttleTime 10.000000
 fighterConstructionTime 22.000000
 decayWithoutOwnerRate 0.010000
 baseMaxNumFighters 2
-role "Combat"
-statCountType "SquadCombat"
+role "Bomber"
+statCountType "SquadBomber"
 mainViewIcon "MAINVIEWICON_BOMBER_SQUADRON"
 picture "PICTURE_MIYTILBOMBER"
 launchIcon "HUDABILITYICON_DOCK"

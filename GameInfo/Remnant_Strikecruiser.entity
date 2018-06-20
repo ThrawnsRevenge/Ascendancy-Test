@@ -181,11 +181,11 @@ HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_TECHCAPITALSHIP"
 ability:0 "AbilityDentingStrike"
 ability:1 "AbilityBombardEmpire"
-ability:2 ""
+ability:2 "AbilityVeteran"
 ability:3 "AbilityThrawnDoctrine"
 ability:4 "AbilityPassiveLowLifeT1"
 MaxAntiMatter 24.000000
-AntiMatterRestoreRate 0.000000
+AntiMatterRestoreRate 0.000010
 cargoType "Invalid"
 maxCargoCapacity 0.000000
 formationRank 0
