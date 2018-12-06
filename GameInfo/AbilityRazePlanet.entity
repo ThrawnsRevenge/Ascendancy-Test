@@ -2,7 +2,7 @@
 entityType "Ability"
 buffInstantActionType "ApplyTargettedBuffToSelf"
 instantActionTriggerType "AlwaysPerform"
-buffType "BuffRazePlanetLauncher"
+buffType "BuffRazePlanetLauncher2"
 targetFilter
 	numOwnerships 1
 	ownership "Enemy"

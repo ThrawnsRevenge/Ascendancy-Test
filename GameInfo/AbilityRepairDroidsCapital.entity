@@ -16,10 +16,10 @@ targetFilter
 	numConstraints 1
 	constraint "HasHullDamage"
 range
-	Level:0 8000.000000
-	Level:1 8000.000000
-	Level:2 8000.000000
-	Level:3 8000.000000
+	Level:0 15000.000000
+	Level:1 17000.000000
+	Level:2 19000.000000
+	Level:3 21000.000000
 maxTargetCount 
 	Level:0 20.000000
 	Level:1 20.000000
@@ -77,4 +77,3 @@ descStringID "IDS_ABILITY_REPAIRDROIDS_DESCRIPTION"
 hudIcon "HUDABILITYICON_REPAIR"
 smallHudIcon "HUDABILITYICON_REPAIR"
 infoCardIcon ""
-
