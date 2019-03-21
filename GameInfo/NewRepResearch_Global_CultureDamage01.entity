@@ -1,4 +1,5 @@
-﻿TXT
+TXT2
+SinsArchiveVersion 193
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCH_INSPIRE"
 smallHudIcon "HUDICON_RESEARCH_INSPIRE"
@@ -35,8 +36,8 @@ researchBoolModifiers 0
 researchFloatModifiers 1
 researchModifier
 	modifierType "CultureWeaponDamageAdjustment"
-	baseValue 0.100000
-	perLevelValue 0.050000
+	baseValue 0.050000
+	perLevelValue 0.025000
 artifactPicture ""
 uniqueOverlayBrush "RebellionResearchOverlay"
 dlcId 204880

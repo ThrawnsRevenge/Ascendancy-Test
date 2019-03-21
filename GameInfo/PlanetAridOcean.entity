@@ -1,11 +1,12 @@
-﻿TXT
+TXT2
+SinsArchiveVersion 193
 entityType "Planet"
 meshInfoCount 3
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_ARIDOCEAN"
 	asteroidTemplate "Empty"
 	dustCloudTemplate "Sparse"
-	meshName "Planet_AridOcean""
+	meshName "Planet_AridOcean"
 	cloudColor ffe7c362
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
@@ -20,7 +21,7 @@ meshInfo
 	typeNameStringID "IDS_PLANETTYPE_ARIDOCEAN"
 	asteroidTemplate "Dense"
 	dustCloudTemplate "Sparse"
-	meshName "Planet_AridOcean""
+	meshName "Planet_AridOcean"
 	cloudColor ffe7c362
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
@@ -35,7 +36,7 @@ meshInfo
 	typeNameStringID "IDS_PLANETTYPE_ARIDOCEAN"
 	asteroidTemplate "Dense"
 	dustCloudTemplate "Empty"
-	meshName "Planet_AridOcean""
+	meshName "Planet_AridOcean"
 	cloudColor ffe7c362
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""

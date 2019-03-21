@@ -1,11 +1,12 @@
-﻿TXT
+TXT2
+SinsArchiveVersion 193
 entityType "Planet"
 meshInfoCount 5
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_ARBOREAL"
 	asteroidTemplate "Sparse"
 	dustCloudTemplate "Sparse"
-	meshName "Planet_Arboreal""
+	meshName "Planet_Arboreal"
 	cloudColor ffffffff
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
@@ -20,7 +21,7 @@ meshInfo
 	typeNameStringID "IDS_PLANETTYPE_ARBOREAL"
 	asteroidTemplate "Dense"
 	dustCloudTemplate "Sparse"
-	meshName "Planet_Arboreal""
+	meshName "Planet_Arboreal"
 	cloudColor ffffffff
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
@@ -35,7 +36,7 @@ meshInfo
 	typeNameStringID "IDS_PLANETTYPE_ARBOREAL"
 	asteroidTemplate "Wall"
 	dustCloudTemplate "Empty"
-	meshName "Planet_Arboreal""
+	meshName "Planet_Arboreal"
 	cloudColor ffffffff
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
@@ -50,7 +51,7 @@ meshInfo
 	typeNameStringID "IDS_PLANETTYPE_ARBOREAL"
 	asteroidTemplate "Empty"
 	dustCloudTemplate "Empty"
-	meshName "Planet_Arboreal""
+	meshName "Planet_Arboreal"
 	cloudColor ffffffff
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
@@ -65,7 +66,7 @@ meshInfo
 	typeNameStringID "IDS_PLANETTYPE_ARBOREAL"
 	asteroidTemplate "Sparse"
 	dustCloudTemplate "Dense"
-	meshName "Planet_Arboreal""
+	meshName "Planet_Arboreal"
 	cloudColor ffffffff
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""

@@ -1,4 +1,5 @@
-﻿TXT
+TXT2
+SinsArchiveVersion 193
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCH_ASTROMECHS"
 smallHudIcon "HUDICON_RESEARCH_ASTROMECHS"
@@ -33,7 +34,7 @@ researchFloatModifiers 1
 researchModifier
 	modifierType "HullPointsRegenAdjustment"
 	baseValue 0.000000
-	perLevelValue 5.000000
+	perLevelValue 2.000000
 artifactPicture ""
 uniqueOverlayBrush "RebellionResearchOverlay"
 dlcId 204880

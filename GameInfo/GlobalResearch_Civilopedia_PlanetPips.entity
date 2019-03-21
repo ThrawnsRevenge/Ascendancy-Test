@@ -1,4 +1,5 @@
-﻿TXT
+TXT2
+SinsArchiveVersion 193
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCH_CULTUREINCREASE"
 smallHudIcon "HUDICON_RESEARCH_CULTUREINCREASE"
@@ -28,10 +29,7 @@ Tier 4
 onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 2
 priority 1.000000
-researchBoolModifiers 1
-researchModifier
-	modifierType "ApplyBuffToShipsAfterHyperspace"
-	buffToApply "BuffFearOfForce"
+researchBoolModifiers 0
 researchFloatModifiers 0
 artifactPicture ""
 uniqueOverlayBrush ""

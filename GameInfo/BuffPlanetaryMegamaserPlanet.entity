@@ -1,4 +1,5 @@
-﻿TXT
+TXT2
+SinsArchiveVersion 193
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -28,8 +29,7 @@ periodicAction
 		Level:2 1.000000
 		Level:3 1.000000
 	buffInstantActionType "ApplyBuffToTargetsInRadiusWithTravel"
-	instantActionTriggerType "OnDelay"
-	delayTime 0.000000
+	instantActionTriggerType "AlwaysPerform"
 	buffType "BuffPlanetaryMegamaserDamage"
 	targetFilter
 		numOwnerships 1
